@@ -1,0 +1,1007 @@
+index,Brand,Model,Type,Gender,Size,Color,Material,Price (USD),Number of Items Sold,Selling Price,City
+0,Nike,Air Jordan 1,Basketball,Men,US 10,Red/Black,Leather,$170.00 ,80,$259.99,Palermo
+1,Adidas,Ultra Boost 21,Running,Men,US 9.5,Black,Primeknit,$180.00 ,42,$219.99,Genoa
+2,Reebok,Classic Leather,Casual,Men,US 11,White,Leather,$75.00 ,75,$119.99,Catania
+3,Converse,Chuck Taylor,Casual,Women,US 8,Navy,Canvas,$55.00 ,31,$129.99,Bari
+4,Puma,Future Rider,Lifestyle,Women,US 7.5,Pink,Mesh,$80.00 ,96,$219.99,Milan
+5,Vans,Old Skool,Skate,Men,US 8.5,Black/White,Suede/Canvas,$65.00 ,29,$159.99,Florence
+6,New Balance,990v5,Running,Women,US 6.5,Grey,Suede/Mesh,$175.00 ,1,$239.99,Florence
+7,Asics,Gel-Kayano 28,Running,Men,US 10.5,Blue,Mesh,$160.00 ,82,$199.99,Bari
+8,Fila,Disruptor II,Fashion,Women,US 9,White,Leather/Synthetic,$65.00 ,66,$169.99,Bologna
+9,Skechers,Go Run Razor 3,Running,Men,US 9,Black,Mesh,$110.00 ,71,$209.99,Catania
+10,Nike,Air Max 270,Running,Women,US 7,Pink,Mesh,$150.00 ,63,$259.99,Naples
+11,Adidas,Stan Smith,Casual,Men,US 9,White/Green,Leather,$80.00 ,58,$249.99,Florence
+12,Reebok,Club C 85,Casual,Women,US 8.5,Pink,Leather,$70.00 ,32,$229.99,Genoa
+13,Converse,One Star,Skate,Men,US 10,Black,Suede,$75.00 ,82,$89.99,Genoa
+14,Puma,RS-Fast,Lifestyle,Men,US 9.5,Yellow,Leather/Synthetic,$110.00 ,34,$239.99,Naples
+15,Vans,Authentic,Skate,Women,US 6,White,Canvas,$50.00 ,74,$269.99,Genoa
+16,New Balance,Fresh Foam 1080v11,Running,Men,US 11.5,Blue,Mesh,$150.00 ,51,$169.99,Palermo
+17,Asics,Gel-Nimbus 23,Running,Women,US 8,Purple,Mesh,$150.00 ,3,$289.99,Bari
+18,Fila,Ray Tracer,Fashion,Men,US 10,Black,Synthetic,$70.00 ,35,$279.99,Bologna
+19,Skechers,Arch Fit,Walking,Women,US 7.5,Grey,Mesh,$70.00 ,73,$179.99,Rome
+20,Nike,Air Force 1,Casual,Men,US 10,White,Leather,$90.00 ,52,$119.99,Palermo
+21,Adidas,NMD_R1,Running,Women,US 8.5,Black/Pink,Primeknit,$140.00 ,6,$189.99,Milan
+22,Reebok,Zig Kinetica II,Running,Men,US 11,White,Mesh,$120.00 ,53,$229.99,Catania
+23,Converse,Jack Purcell,Casual,Women,US 7.5,Navy,Canvas,$65.00 ,44,$179.99,Genoa
+24,Puma,Calibrate Runner,Running,Men,US 9.5,Black,Mesh,$80.00 ,98,$219.99,Naples
+25,Vans,Sk8-Hi,Skate,Women,US 8,Black/White,Suede/Canvas,$70.00 ,57,$119.99,Rome
+26,New Balance,327,Lifestyle,Men,US 10,Blue/Orange,Suede/Mesh,$90.00 ,86,$139.99,Bari
+27,Asics,Gel-Quantum 180,Running,Women,US 9,Grey,Mesh/Synthetic,$120.00 ,80,$159.99,Bari
+28,Fila,Mindblower,Fashion,Men,US 8.5,White,Leather/Synthetic,$75.00 ,30,$259.99,Bari
+29,Skechers,D'Lites,Walking,Women,US 7,Black,Synthetic,$65.00 ,94,$169.99,Rome
+30,Nike,Air Max 2090,Running,Men,US 9,Grey,Mesh,$150.00 ,40,$189.99,Catania
+31,Adidas,Adizero Adios 5,Running,Women,US 7.5,Blue,Mesh,$170.00 ,92,$239.99,Bari
+32,Reebok,Nano 9,Cross-training,Men,US 10,Black,Mesh/Synthetic,$130.00 ,37,$149.99,Catania
+33,Converse,Chuck 70,Casual,Women,US 9,Pink,Canvas,$85.00 ,22,$269.99,Palermo
+34,Puma,Future Rider Play,Lifestyle,Men,US 9,Black/Red,Synthetic,$90.00 ,88,$149.99,Bari
+35,Vans,Slip-On,Skate,Women,US 7,Checkered,Canvas,$50.00 ,76,$119.99,Palermo
+36,New Balance,574,Casual,Men,US 9,Black/Grey,Suede/Textile,$80.00 ,74,$159.99,Genoa
+37,Asics,Gel-Kayano 27,Running,Women,US 8.5,Purple,Mesh/Synthetic,$160.00 ,77,$279.99,Bari
+38,Fila,Venom,Fashion,Men,US 9.5,White/Red,Leather/Synthetic,$65.00 ,46,$99.99,Rome
+39,Skechers,Go Walk 5,Walking,Women,US 7.5,Black,Mesh,$60.00 ,30,$249.99,Rome
+40,Nike,Air Force 1,Casual,Men,US 11,White,Leather,$90.00 ,50,$189.99,Palermo
+41,Adidas,NMD_R1,Running,Women,US 9,Black,Knit,$140.00 ,64,$269.99,Bologna
+42,Reebok,Zig Kinetica II,Running,Men,US 9.5,White,Mesh,$120.00 ,74,$219.99,Bari
+43,Converse,Jack Purcell,Casual,Men,US 10,White,Canvas,$65.00 ,11,$159.99,Catania
+44,Puma,Suede Classic,Casual,Women,US 8.5,Beige,Suede,$65.00 ,21,$109.99,Bologna
+45,Vans,Sk8-Hi,Skate,Men,US 8,Black/White,Suede/Canvas,$70.00 ,60,$299.99,Bari
+46,New Balance,327,Casual,Women,US 7.5,Orange,Suede/Mesh,$100.00 ,38,$129.99,Catania
+47,Asics,Gel-Kayano 28,Running,Women,US 7,White,Mesh,$160.00 ,91,$289.99,Palermo
+48,Fila,Original Fitness,Casual,Men,US 11,White/Navy,Leather,$70.00 ,66,$169.99,Palermo
+49,Skechers,Go Walk 5,Walking,Women,US 8,Black,Mesh,$60.00 ,30,$219.99,Turin
+50,Nike,Free RN 5.0,Running,Men,US 10,Grey,Mesh,$100.00 ,89,$289.99,Genoa
+51,Adidas,Adilette Cloudfoam,Slides,Women,US 6,Black,Synthetic,$35.00 ,37,$199.99,Bologna
+52,Reebok,Nano 9,Crossfit,Men,US 10.5,Black,Mesh,$130.00 ,74,$279.99,Palermo
+53,Converse,Chuck 70,Casual,Women,US 7.5,Pink,Canvas,$85.00 ,35,$159.99,Palermo
+54,Puma,Clyde All Pro,Basketball,Men,US 9.5,Black/Red,Leather,$130.00 ,24,$289.99,Palermo
+55,Vans,Era,Skate,Women,US 6.5,White,Canvas,$55.00 ,65,$119.99,Bologna
+56,New Balance,Fresh Foam More v2,Running,Men,US 12,Black/Grey,Mesh,$165.00 ,25,$279.99,Palermo
+57,Asics,GT-2000 10,Running,Women,US 7,Blue,Mesh,$120.00 ,28,$299.99,Milan
+58,Fila,Mindblower,Casual,Men,US 9.5,White/Blue,Leather/Synthetic,$75.00 ,29,$299.99,Florence
+59,Skechers,Dynamight 2.0,Training,Women,US 9,Black,Mesh,$50.00 ,80,$109.99,Genoa
+60,Nike,Air Force 1,Basketball,Men,US 11,White,Leather,$90.00 ,49,$239.99,Bologna
+61,Adidas,NMD_R1,Lifestyle,Women,US 7,Pink,Primeknit,$130.00 ,3,$149.99,Turin
+62,Reebok,Nano X1,Training,Men,US 9,Black,Knit,$130.00 ,55,$179.99,Genoa
+63,Converse,Chuck 70,Casual,Women,US 8.5,Yellow,Canvas,$85.00 ,67,$269.99,Rome
+64,Puma,Clyde All-Pro,Basketball,Men,US 10,Red,Leather,$130.00 ,30,$279.99,Catania
+65,Vans,Sk8-Hi,Skate,Women,US 7,Black,Suede,$70.00 ,54,$159.99,Milan
+66,New Balance,Fresh Foam 1080v11,Running,Women,US 8,Green,Mesh,$150.00 ,49,$279.99,Turin
+67,Asics,Gel-Quantum 360,Running,Men,US 11,Blue,Mesh,$170.00 ,9,$259.99,Bologna
+68,Fila,D-Formation,Casual,Women,US 8.5,White,Leather,$65.00 ,16,$269.99,Genoa
+69,Skechers,Max Cushioning,Running,Men,US 8.5,Black,Mesh,$90.00 ,86,$229.99,Milan
+70,Nike,Air Max 90,Lifestyle,Women,US 6,Grey,Leather,$120.00 ,99,$169.99,Palermo
+71,Adidas,Yeezy Boost 350,Lifestyle,Men,US 10,Black,Primeknit,$220.00 ,70,$259.99,Bologna
+72,Reebok,Classic Nylon,Casual,Women,US 7.5,Pink,Nylon,$65.00 ,99,$289.99,Bari
+73,Converse,Jack Purcell,Casual,Men,US 9,White,Canvas,$65.00 ,49,$139.99,Palermo
+74,Puma,Calibrate Runner,Running,Women,US 9,Grey,Mesh,$120.00 ,13,$249.99,Milan
+75,Vans,Era,Skate,Men,US 9.5,Red,Canvas,$50.00 ,2,$69.99,Milan
+76,New Balance,FuelCell Echo,Running,Women,US 7,Pink,Mesh,$100.00 ,36,$239.99,Turin
+77,Asics,GT-2000 9,Running,Men,US 10.5,Black,Mesh,$120.00 ,17,$169.99,Bologna
+78,Fila,Original Fitness,Casual,Women,US 7,White,Leather,$60.00 ,20,$189.99,Bologna
+79,Skechers,Elite Flex,Walking,Men,US 10,Navy,Mesh,$65.00 ,95,$159.99,Catania
+80,Nike,Blazer Low,Lifestyle,Women,US 7.5,White,Leather,$85.00 ,74,$209.99,Bari
+81,Nike,Air Force 1,Basketball,Men,US 10,White,Leather,$90.00 ,28,$279.99,Genoa
+82,Adidas,NMD_R1,Lifestyle,Men,US 8.5,Black,Primeknit,$140.00 ,30,$249.99,Palermo
+83,Reebok,Nano X1,Training,Women,US 7.5,Grey,Flexweave,$130.00 ,80,$149.99,Rome
+84,Converse,Jack Purcell,Casual,Men,US 9,White,Canvas,$65.00 ,13,$269.99,Bologna
+85,Puma,Clyde All-Pro,Basketball,Men,US 11,Red/White,Leather,$120.00 ,96,$189.99,Rome
+86,Vans,SK8-Hi,Skate,Women,US 6,Black,Suede/Canvas,$70.00 ,8,$149.99,Palermo
+87,New Balance,574,Casual,Men,US 10,Navy,Suede/Mesh,$80.00 ,93,$229.99,Bologna
+88,Asics,Gel-Lyte III NS,Casual,Women,US 8,Pink,Mesh,$100.00 ,25,$189.99,Rome
+89,Fila,Mindblower,Fashion,Men,US 9.5,White,Leather/Synthetic,$75.00 ,71,$269.99,Bari
+90,Skechers,Max Cushioning,Running,Women,US 7,Black,Mesh,$75.00 ,12,$279.99,Catania
+91,Nike,React Infinity Run Flyknit 2,Running,Men,US 9.5,Blue,Flyknit,$160.00 ,12,$289.99,Bologna
+92,Adidas,Harden Stepback,Basketball,Men,US 12,Grey,Synthetic,$80.00 ,19,$289.99,Turin
+93,Reebok,Classic Nylon,Casual,Women,US 7.5,Black,Nylon,$65.00 ,89,$229.99,Bari
+94,Converse,Chuck 70,Casual,Men,US 8,Yellow,Canvas,$85.00 ,96,$149.99,Milan
+95,Puma,Calibrate Runner,Running,Men,US 10.5,Black/Yellow,Mesh,$80.00 ,81,$169.99,Catania
+96,Vans,Era,Skate,Women,US 7,Green,Canvas,$55.00 ,3,$69.99,Milan
+97,New Balance,FuelCell Propel V3,Running,Women,US 6.5,Purple,Mesh,$100.00 ,76,$219.99,Florence
+98,Asics,Gel-Kayano 28 Lite-Show,Running,Men,US 11,Black,Mesh,$170.00 ,73,$249.99,Bari
+99,Fila,Trailblazer,Fashion,Women,US 8,White/Pink,Leather,$65.00 ,9,$179.99,Genoa
+100,Skechers,Summits - Quick Getaway,Walking,Men,US 9,Grey,Mesh,$60.00 ,19,$209.99,Bologna
+101,Nike,Air Zoom Tempo NEXT% FlyEase,Running,Women,US 8.5,White,Mesh,$200.00 ,4,$249.99,Catania
+102,Nike,React Infinity Run 2,Running,Women,US 7.5,Grey,Mesh,$160.00 ,27,$289.99,Turin
+103,Adidas,Superstar,Casual,Men,US 8.5,Black/White,Leather,$80.00 ,27,$139.99,Milan
+104,Reebok,Zig Kinetica Horizon,Running,Women,US 6.5,Blue,Mesh,$120.00 ,73,$289.99,Catania
+105,Converse,Chuck 70,Casual,Men,US 9,White,Canvas,$85.00 ,57,$209.99,Milan
+106,Puma,Cali Sport,Lifestyle,Women,US 9.5,White,Leather,$90.00 ,62,$209.99,Florence
+107,Vans,Sk8-Hi,Skate,Men,US 10,Black/White,Suede/Canvas,$70.00 ,30,$79.99,Rome
+108,New Balance,990v5,Running,Men,US 9.5,Grey,Suede/Mesh,$175.00 ,46,$299.99,Palermo
+109,Asics,Gel-Venture 8,Trail,Women,US 8.5,Blue,Mesh,$70.00 ,47,$189.99,Bari
+110,Fila,Mindblower,Fashion,Men,US 11,White,Synthetic,$75.00 ,65,$89.99,Bari
+111,Skechers,Go Run Mojo,Running,Women,US 7,Black,Mesh,$60.00 ,67,$229.99,Florence
+112,Nike,Air Zoom Pegasus 38,Running,Men,US 11,Black,Mesh,$120.00 ,19,$289.99,Palermo
+113,Adidas,Ultraboost 5.0 DNA,Running,Women,US 8.5,Grey,Primeknit,$180.00 ,83,$229.99,Genoa
+114,Reebok,Classic Leather Legacy,Casual,Men,US 9.5,White,Leather,$80.00 ,88,$119.99,Naples
+115,Converse,Jack Purcell,Casual,Women,US 6,Navy,Canvas,$65.00 ,47,$179.99,Milan
+116,Puma,RS-Fast Tech,Lifestyle,Men,US 9.5,Black/Red,Synthetic,$110.00 ,99,$199.99,Florence
+117,Vans,Era,Skate,Women,US 7.5,Black/White,Canvas,$50.00 ,54,$219.99,Bologna
+118,New Balance,Fresh Foam Roav,Running,Men,US 10,Red,Mesh,$80.00 ,88,$149.99,Turin
+119,Asics,GT-2000 10,Running,Women,US 9,Black,Mesh,$120.00 ,96,$279.99,Turin
+120,Fila,Original Fitness,Fashion,Men,US 10,White,Leather,$60.00 ,27,$139.99,Bologna
+121,Skechers,Max Cushioning Elite,Walking,Women,US 8,Navy,Mesh,$80.00 ,63,$139.99,Milan
+122,Nike,Air Force 1 '07,Basketball,Men,US 11,White,Leather,$90.00 ,69,$249.99,Catania
+123,Adidas,NMD_R1,Running,Women,US 8,Pink,Primeknit,$140.00 ,9,$249.99,Catania
+124,Reebok,Nano 9,Training,Men,US 9.5,Black/White,Mesh,$130.00 ,13,$149.99,Bari
+125,Converse,Jack Purcell,Casual,Women,US 7.5,White,Canvas,$65.00 ,38,$109.99,Catania
+126,Puma,Calibrate Runner,Running,Men,US 10,Black/Grey,Mesh/Synthetic,$90.00 ,10,$119.99,Bologna
+127,Vans,Sk8-Hi,Skate,Women,US 9,Black/White,Canvas,$65.00 ,29,$209.99,Rome
+128,New Balance,FuelCell Rebel v2,Running,Men,US 9.5,Blue/White,Mesh,$130.00 ,29,$199.99,Rome
+129,Asics,Gel-Kinsei OG,Running,Women,US 7.5,White/Grey,Mesh/Leather,$180.00 ,25,$209.99,Palermo
+130,Fila,Spaghetti,Fashion,Men,US 8,White/Navy,Leather/Synthetic,$65.00 ,40,$179.99,Rome
+131,Skechers,Go Walk 5,Walking,Women,US 6.5,Black,Mesh,$60.00 ,12,$289.99,Bari
+132,Nike,ZoomX Invincible Run,Running,Men,US 11,Black,Mesh/Synthetic,$180.00 ,9,$189.99,Milan
+133,Adidas,Ultraboost DNA,Running,Women,US 8,Grey,Primeknit,$180.00 ,99,$289.99,Rome
+134,Reebok,Classic Nylon,Casual,Men,US 10.5,Black,Nylon,$60.00 ,6,$209.99,Turin
+135,Converse,Run Star Hike,Casual,Women,US 8,Cream,Canvas,$110.00 ,61,$169.99,Turin
+136,Puma,Suede Classic+,Casual,Men,US 8,Red/White,Suede,$65.00 ,7,$199.99,Florence
+137,Vans,Era,Skate,Women,US 7.5,Green,Canvas,$50.00 ,5,$249.99,Bari
+138,New Balance,Fresh Foam More v3,Running,Men,US 11,Black/Grey,Mesh/Synthetic,$165.00 ,47,$229.99,Milan
+139,Asics,Gel-Quantum 90 3,Running,Women,US 9,Pink,Mesh/Synthetic,$90.00 ,65,$149.99,Bologna
+140,Fila,Original Fitness,Casual,Men,US 9.5,White/Navy/Red,Leather,$60.00 ,25,$299.99,Catania
+141,Skechers,Go Run Mojo Pep,Running,Women,US 8.5,Black/White,Mesh,$55 ,5,$269.99,Catania
+142,Nike,Air Force 1,Casual,Men,US 11,White,Leather,$90.00 ,68,$299.99,Genoa
+143,Adidas,NMD_R1,Running,Women,US 8.5,Pink,Primeknit,$130.00 ,59,$159.99,Rome
+144,Reebok,Zig Kinetica II,Running,Men,US 9,Blue,Mesh,$120.00 ,64,$159.99,Genoa
+145,Converse,Chuck 70,Casual,Women,US 7,Black,Canvas,$85.00 ,34,$159.99,Naples
+146,Puma,Clyde All-Pro,Basketball,Men,US 10,White,Leather,$130.00 ,89,$279.99,Turin
+147,Vans,Sk8-Hi,Skate,Women,US 9,Black/White,Suede/Canvas,$65.00 ,83,$229.99,Palermo
+148,New Balance,574 Classic,Casual,Men,US 10.5,Grey,Suede/Mesh,$80.00 ,14,$149.99,Turin
+149,Asics,Gel-Quantum 90 3,Running,Women,US 7.5,Black,Mesh,$70.00 ,30,$119.99,Florence
+150,Fila,Mindblower,Fashion,Men,US 11,Grey,Leather/Synthetic,$75.00 ,20,$239.99,Turin
+151,Skechers,Max Cushioning Premier,Running,Women,US 7.5,Pink,Mesh,$90.00 ,2,$209.99,Turin
+152,Nike,Blazer Mid '77,Casual,Men,US 9.5,White,Leather,$100.00 ,41,$119.99,Turin
+153,Adidas,Superstar,Casual,Women,US 7.5,Black/White,Leather,$85.00 ,84,$159.99,Rome
+154,Reebok,DMX Thrill,Running,Men,US 10,Black,Mesh,$70.00 ,2,$279.99,Bologna
+155,Converse,Jack Purcell,Casual,Women,US 8.5,White,Canvas,$65.00 ,36,$109.99,Catania
+156,Puma,Calibrate Runner,Running,Men,US 9.5,Black/Yellow,Mesh,$140.00 ,6,$299.99,Turin
+157,Vans,Slip-On,Skate,Women,US 6.5,Checkered,Canvas,$50.00 ,40,$89.99,Florence
+158,New Balance,Fresh Foam Beacon V3,Running,Men,US 11,Blue,Mesh,$120.00 ,14,$229.99,Rome
+159,Asics,Gel-Venture 8,Trail,Women,US 9.5,Grey,Mesh,$70.00 ,50,$219.99,Catania
+160,Fila,F-13,Fashion,Men,US 10,White,Leather,$70.00 ,18,$89.99,Bologna
+161,Skechers,Equalizer 4.0,Training,Women,US 8.5,Black,Mesh,$65.00 ,61,$149.99,Turin
+162,Nike,KD13,Basketball,Men,US 11,Blue,Mesh,$150.00 ,65,$209.99,Rome
+163,Nike,React Infinity Run Flyknit 2,Running,Women,US 9.5,Black/White,Flyknit,$160.00 ,69,$259.99,Milan
+164,Adidas,NMD_R1,Lifestyle,Men,US 11.5,Grey,Primeknit,$140.00 ,5,$209.99,Naples
+165,Reebok,Aztrek 96,Casual,Women,US 8.5,Yellow/Black,Leather/Synthetic,$90.00 ,25,$209.99,Bari
+166,Converse,Jack Purcell,Casual,Men,US 9,Navy/White,Canvas,$70.00 ,52,$99.99,Rome
+167,Puma,Calibrate Runner,Running,Men,US 10,Black,Mesh,$100.00 ,76,$219.99,Genoa
+168,Vans,Sk8-Hi,Skate,Women,US 7.5,Black/White,Suede/Canvas,$65.00 ,63,$229.99,Bologna
+169,New Balance,327,Casual,Men,US 10,Green,Suede/Leather,$90.00 ,17,$269.99,Genoa
+170,Asics,GT-2000 10,Running,Women,US 8,Blue,Mesh,$120.00 ,71,$219.99,Catania
+171,Fila,Trailblazer,Fashion,Men,US 9,White/Grey,Leather,$85.00 ,19,$209.99,Palermo
+172,Skechers,Max Cushioning Premier,Running,Women,US 7,Grey/Pink,Mesh,$105.00 ,31,$269.99,Milan
+173,Nike,Blazer Mid '77,Casual,Men,US 8.5,Green,Leather,$100.00 ,15,$209.99,Turin
+174,Adidas,Ultraboost 6.0,Running,Women,US 7.5,Black/White,Primeknit,$180.00 ,29,$279.99,Florence
+175,Reebok,Classic Nylon,Casual,Men,US 11.5,Blue/White,Nylon,$60.00 ,4,$289.99,Bologna
+176,Converse,Pro Leather,Casual,Women,US 9.5,White/Green,Leather,$75.00 ,57,$149.99,Naples
+177,Puma,Clyde All-Pro,Basketball,Men,US 9.5,Black,Leather/Synthetic,$130.00 ,15,$299.99,Milan
+178,Vans,Era 95 DX,Skate,Women,US 6.5,Black/White,Canvas,$65.00 ,68,$229.99,Florence
+179,New Balance,Fresh Foam More v3,Running,Men,US 10,Black/Grey,Mesh,$165.00 ,47,$179.99,Bari
+180,Asics,Gel-Quantum 360 6,Running,Women,US 9,Grey/Green,Mesh,$180.00 ,28,$249.99,Genoa
+181,Fila,Spaghetti,Basketball,Men,US 10.5,White,Leather,$75.00 ,3,$139.99,Naples
+182,Skechers,Uno Bold Move,Casual,Women,US 8.5,Black/White,Synthetic,$70.00 ,100,$139.99,Catania
+183,Nike,Air Force 1,Basketball,Men,US 10,White,Leather,$100.00 ,23,$289.99,Rome
+184,Adidas,NMD_R1,Lifestyle,Women,US 8,Grey,Primeknit,$140.00 ,70,$199.99,Bari
+185,Reebok,Nano X1,Training,Men,US 9.5,Black,Knit,$130.00 ,49,$159.99,Genoa
+186,Converse,Jack Purcell,Casual,Women,US 6.5,Navy,Canvas,$65.00 ,21,$299.99,Palermo
+187,Puma,Calibrate Runner,Running,Men,US 11,Black,Mesh,$80.00 ,84,$219.99,Turin
+188,Vans,Sk8-Hi,Skate,Women,US 7.5,Black/White,Canvas/Suede,$70.00 ,78,$209.99,Milan
+189,New Balance,327,Lifestyle,Men,US 10,Beige,Suede/Mesh,$100.00 ,56,$149.99,Bari
+190,Asics,Gel-Excite 8,Running,Women,US 9,Pink,Mesh,$75.00 ,48,$219.99,Turin
+191,Fila,Memory Fresh 2,Walking,Men,US 10,White,Synthetic,$60.00 ,39,$159.99,Rome
+192,Skechers,Energy Burst,Running,Women,US 8,Black,Mesh,$70.00 ,92,$99.99,Florence
+193,Nike,Flyknit Trainer,Running,Men,US 10,Black/White,Flyknit,$150.00 ,43,$259.99,Catania
+194,Adidas,Ultraboost 4.0,Running,Women,US 7,Blue,Primeknit,$180.00 ,1,$259.99,Genoa
+195,Reebok,Floatride Energy,Running,Men,US 10.5,Grey,Mesh,$100.00 ,95,$169.99,Catania
+196,Converse,Chuck 70 High,Casual,Women,US 9,Pink,Canvas,$85.00 ,44,$159.99,Catania
+197,Puma,Clyde All-Pro,Basketball,Men,US 9,White,Leather,$130.00 ,31,$229.99,Turin
+198,Vans,Era,Skate,Women,US 8.5,Black,Canvas,$50.00 ,34,$299.99,Turin
+199,New Balance,Fresh Foam Beacon v3,Running,Men,US 12,Blue,Mesh,$120.00 ,56,$269.99,Palermo
+200,Asics,Gel-Kayano 27,Running,Women,US 8.5,Black,Mesh,$160.00 ,56,$239.99,Florence
+201,Fila,Trailblazer,Fashion,Men,US 11,Black,Leather,$75.00 ,95,$99.99,Rome
+202,Skechers,Equalizer 4.0,Walking,Women,US 7,Grey,Mesh,$60.00 ,92,$259.99,Bologna
+203,Nike,Blazer Mid '77,Casual,Men,US 9.5,White/Red/Navy,Leather,$100.00 ,90,$179.99,Turin
+204,Adidas,Superstar,Casual,Women,US 7.5,White/Black,Leather,$80.00 ,55,$229.99,Rome
+205,Reebok,Zig Kinetica,Running,Men,US 11.5,White/Black,Mesh,$120.00 ,62,$199.99,Bari
+206,Converse,Jack Purcell,Casual,Men,US 8.5,White/Navy,Canvas,$70.00 ,88,$239.99,Turin
+207,Puma,Suede Classic,Casual,Women,US 8.5,Pink,Suede,$65.00 ,97,$149.99,Florence
+208,Vans,Sk8-Hi,Skate,Men,US 10,Black/White,Canvas,$70.00 ,30,$199.99,Milan
+209,New Balance,Fresh Foam More,Running,Women,US 9,Grey/Purple,Mesh,$165.00 ,22,$279.99,Genoa
+210,Asics,Gel-Kayano 27,Running,Men,US 10.5,Black/Green,Mesh,$160.00 ,96,$289.99,Palermo
+211,Fila,Trailblazer,Fashion,Women,US 7,Cream,Synthetic,$75.00 ,23,$189.99,Palermo
+212,Skechers,D'Lites Fresh Start,Walking,Men,US 9.5,White/Black,Leather,$70.00 ,30,$119.99,Milan
+213,Nike,Air Force 1,Casual,Women,US 8.5,White/Red,Leather,$90.00 ,1,$139.99,Catania
+214,Adidas,NMD_R1,Casual,Men,US 9,Black/White,Primeknit,$130.00 ,37,$199.99,Naples
+215,Reebok,Club C 85 MU,Casual,Men,US 11,White/Black,Leather,$75.00 ,1,$249.99,Milan
+216,Converse,Chuck 70,Casual,Women,US 8.5,Cream,Canvas,$85.00 ,88,$259.99,Turin
+217,Puma,Calibrate Runner,Running,Men,US 8.5,Black/Blue,Mesh,$120.00 ,17,$219.99,Milan
+218,Vans,Era,Skate,Women,US 7,Pink/White,Canvas,$50.00 ,64,$209.99,Naples
+219,New Balance,FuelCell Propel v2,Running,Men,US 9,Blue/Green,Mesh,$100.00 ,3,$169.99,Florence
+220,Asics,Gel-Cumulus 23,Running,Women,US 8.5,Pink/White,Mesh,$120.00 ,47,$249.99,Rome
+221,Fila,Mindblower,Fashion,Men,US 10,White/Black,Synthetic,$75.00 ,83,$119.99,Palermo
+222,Nike,Air Force 1,Casual,Men,US 11,White,Leather,$90.00 ,14,$109.99,Palermo
+223,Adidas,NMD_R1,Lifestyle,Women,US 8,Pink,Primeknit,$140.00 ,29,$209.99,Milan
+224,Reebok,Nano X1,Training,Men,US 9.5,Grey,Knit,$130.00 ,73,$179.99,Turin
+225,Converse,All Star Hi,Casual,Women,US 7,Black,Canvas,$60.00 ,62,$119.99,Turin
+226,Puma,Calibrate Runner,Running,Men,US 10.5,Blue,Mesh,$90.00 ,100,$139.99,Bari
+227,Vans,Sk8-Hi,Skate,Women,US 6,Red/White,Canvas,$70.00 ,22,$109.99,Florence
+228,New Balance,327,Lifestyle,Men,US 8.5,Green,Suede/Mesh,$100.00 ,67,$159.99,Bari
+229,Asics,Gel-Quantum 180,Running,Women,US 7.5,Grey,Mesh,$120.00 ,37,$239.99,Genoa
+230,Fila,Mindblower,Fashion,Men,US 9,White,Leather,$70.00 ,78,$229.99,Bari
+231,Skechers,Max Cushioning,Walking,Women,US 9,Black,Mesh,$75.00 ,30,$89.99,Bari
+232,Nike,React Infinity Run Flyknit,Running,Men,US 12,Black,Flyknit,$160.00 ,33,$219.99,Rome
+233,Adidas,Adilette Comfort,Slides,Women,US 6,Black,Synthetic,$35.00 ,54,$209.99,Naples
+234,Reebok,Classic Nylon,Casual,Men,US 10,Grey,Nylon,$65.00 ,3,$129.99,Milan
+235,Converse,Chuck 70,Casual,Women,US 8,Cream,Canvas,$85.00 ,36,$109.99,Catania
+236,Puma,RS-X3 Puzzle,Lifestyle,Men,US 8.5,Black/Yellow,Synthetic,$110.00 ,75,$279.99,Bari
+237,Vans,Era,Skate,Women,US 7,Pink,Canvas,$55.00 ,42,$199.99,Catania
+238,New Balance,990v4,Running,Men,US 9.5,Grey,Suede/Mesh,$175.00 ,75,$229.99,Bari
+239,Asics,GT-2000 10,Running,Women,US 9,Blue,Mesh,$120.00 ,86,$279.99,Bari
+240,Fila,D-Formation,Fashion,Men,US 11,White,Leather,$65.00 ,68,$289.99,Palermo
+241,Skechers,Equalizer 4.0,Training,Women,US 8.5,Black,Knit,$70.00 ,67,$149.99,Rome
+242,Nike,Air Zoom Pegasus 38,Running,Men,US 10.5,Blue,Mesh,$120.00 ,65,$189.99,Genoa
+243,Nike,Air Force 1 '07,Basketball,Men,US 11,White,Leather,$90.00 ,3,$229.99,Turin
+244,Adidas,Yeezy Boost 350 V2,Fashion,Men,US 9,Zebra,Primeknit,$220.00 ,50,$229.99,Rome
+245,Reebok,Nano X1 Adventure,Training,Men,US 10,Khaki,Textile/Leather,$130.00 ,60,$169.99,Naples
+246,Converse,Jack Purcell Low,Casual,Women,US 7.5,Pink,Canvas,$65.00 ,71,$109.99,Turin
+247,Puma,Clyde All-Pro,Basketball,Men,US 10.5,Black/White,Leather/Suede,$130.00 ,55,$139.99,Milan
+248,Vans,Sk8-Hi,Skate,Women,US 9,Checkerboard,Canvas,$70.00 ,28,$199.99,Rome
+249,New Balance,Fresh Foam Hierro v6,Trail,Men,US 9.5,Grey/Yellow,Synthetic/Mesh,$135.00 ,29,$189.99,Turin
+250,Asics,Gel-Quantum 180 5,Running,Women,US 8,Pink,Mesh,$120.00 ,80,$129.99,Rome
+251,Fila,D-Formation,Fashion,Men,US 11,Black,Leather,$65.00 ,39,$249.99,Bari
+252,Skechers,Arch Fit Refine,Walking,Women,US 6.5,Navy,Mesh,$65.00 ,98,$259.99,Florence
+253,Nike,Air Zoom Pegasus 38,Running,Men,US 12,Blue,Mesh,$120.00 ,91,$209.99,Turin
+254,Adidas,NMD_R1,Casual,Women,US 8.5,Pink,Primeknit,$130.00 ,49,$209.99,Catania
+255,Reebok,Floatride Energy 3,Running,Men,US 9,Black,Mesh,$100.00 ,53,$159.99,Catania
+256,Converse,Chuck 70 High,Casual,Men,US 12,Green,Canvas,$85.00 ,60,$269.99,Catania
+257,Puma,Calibrate Runner,Running,Women,US 9,White,Mesh,$90.00 ,92,$119.99,Naples
+258,Vans,Era,Skate,Men,US 8.5,Black,Canvas,$50.00 ,65,$99.99,Bari
+259,New Balance,FuelCell Rebel v2,Running,Women,US 7.5,Orange,Mesh,$130.00 ,81,$149.99,Bari
+260,Asics,Gel-Cumulus 23,Running,Men,US 11,Grey,Mesh,$120.00 ,21,$239.99,Florence
+261,Fila,Mindblower,Fashion,Women,US 7,White,Leather/Synthetic,$65.00 ,27,$149.99,Bari
+262,Skechers,GOrun Mojo 2.0,Running,Men,US 8,Black,Mesh,$60.00 ,74,$129.99,Genoa
+263,Nike,Air Force 1,Basketball,Men,US 11,White,Leather,$90.00 ,23,$179.99,Milan
+264,Adidas,NMD_R1,Running,Women,US 8.5,Pink,Knit,$140.00 ,69,$279.99,Bologna
+265,Reebok,ZigWild Trail 7,Trail,Men,US 9.5,Black,Mesh/Synthetic,$110.00 ,23,$159.99,Bologna
+266,Converse,Jack Purcell,Casual,Women,US 7,Blue,Canvas,$65.00 ,100,$129.99,Turin
+267,Puma,Calibrate Runner,Running,Men,US 10,Grey,Mesh,$90.00 ,20,$189.99,Florence
+268,Vans,SK8-Hi,Skate,Women,US 6.5,Black/White,Canvas/Leather,$70.00 ,91,$119.99,Naples
+269,New Balance,FuelCell Rebel v2,Running,Women,US 7,White/Pink,Mesh,$110.00 ,16,$159.99,Bologna
+270,Asics,Gel-Kahana 8,Running,Men,US 8,Grey,Mesh,$85.00 ,29,$129.99,Naples
+271,Fila,Mindblower,Fashion,Women,US 7.5,White/Pink,Leather/Synthetic,$65.00 ,12,$179.99,Milan
+272,Skechers,Max Cushioning,Running,Men,US 11,Black,Mesh,$85.00 ,72,$159.99,Catania
+273,Nike,Air Max 2090,Running,Men,US 12,Black,Mesh/Synthetic,$150.00 ,79,$299.99,Milan
+274,Adidas,Superstar,Casual,Women,US 9.5,White/Black,Leather,$85.00 ,12,$249.99,Palermo
+275,Reebok,Nano 9,Training,Men,US 10,Blue,Synthetic,$130.00 ,89,$139.99,Naples
+276,Converse,Pro Leather,Casual,Men,US 9.5,White/Green,Leather,$80.00 ,2,$259.99,Florence
+277,Puma,RS-X³,Lifestyle,Women,US 8.5,Pink,Mesh,$110.00 ,17,$209.99,Florence
+278,Vans,Slip-On,Casual,Men,US 10.5,Black/White,Canvas,$50.00 ,24,$169.99,Turin
+279,New Balance,Fresh Foam More v3,Running,Men,US 12,Black/Grey,Mesh,$165.00 ,36,$209.99,Palermo
+280,Asics,GT-1000 9,Running,Women,US 6.5,Blue,Mesh,$90.00 ,63,$249.99,Palermo
+281,Fila,T1 Mid,Casual,Men,US 11,White,Leather,$65.00 ,96,$249.99,Palermo
+282,Skechers,Go Walk 5,Walking,Women,US 8.5,Black,Mesh,$60.00 ,43,$139.99,Bari
+283,Nike,Blazer Mid '77,Casual,Men,US 8.5,Green,Leather,$100.00 ,5,$269.99,Palermo
+284,Nike,Air Force 1,Casual,Men,US 9.5,White,Leather,$90.00 ,93,$179.99,Rome
+285,Adidas,NMD_R1,Lifestyle,Women,US 7,Black/Pink,Knit,$140.00 ,2,$179.99,Rome
+286,Reebok,Nano X1,Crossfit,Men,US 10,Black,Mesh,$130.00 ,92,$209.99,Florence
+287,Converse,Chuck 70,Casual,Women,US 8.5,Ivory,Canvas,$85.00 ,31,$239.99,Catania
+288,Puma,Calibrate,Running,Men,US 8.5,Grey,Mesh,$130.00 ,1,$169.99,Bari
+289,Vans,SK8-Hi,Skate,Men,US 9.5,Black/White,Canvas,$70.00 ,27,$249.99,Florence
+290,New Balance,574,Casual,Women,US 7,Pink,Suede,$80.00 ,73,$129.99,Palermo
+291,Asics,Gel-Quantum 180 6,Running,Men,US 11,Black,Mesh,$120.00 ,70,$179.99,Turin
+292,Fila,Mindblower,Fashion,Women,US 8,White,Leather/Synthetic,$65.00 ,68,$109.99,Bari
+293,Skechers,Max Cushioning,Running,Women,US 7.5,Black,Mesh,$90.00 ,64,$189.99,Palermo
+294,Nike,Free RN Flyknit,Running,Men,US 10,Blue,Knit,$130.00 ,50,$199.99,Turin
+295,Adidas,Adizero Boston 9,Running,Women,US 6.5,Black,Mesh,$120.00 ,80,$129.99,Turin
+296,Reebok,Zig Kinetica II,Running,Men,US 9,Blue,Mesh,$120.00 ,39,$289.99,Rome
+297,Converse,Run Star Hike,Casual,Women,US 8.5,White,Canvas,$110.00 ,20,$289.99,Bologna
+298,Puma,Ralph Sampson,Casual,Men,US 11,White/Green,Leather,$80.00 ,78,$259.99,Milan
+299,Vans,Era,Skate,Women,US 7,Black,Canvas,$55.00 ,95,$159.99,Bologna
+300,New Balance,990v4,Running,Men,US 10.5,Grey,Suede/Mesh,$175.00 ,75,$229.99,Palermo
+301,Asics,Gel-Kayano 27,Running,Women,US 9,Black,Mesh,$160.00 ,18,$269.99,Naples
+302,Fila,D-Formation,Fashion,Men,US 9,White,Leather,$70.00 ,73,$149.99,Palermo
+303,Skechers,D'Lites,Walking,Women,US 8,White,Leather,$65.00 ,45,$169.99,Milan
+304,Nike,Air Max 2090,Running,Men,US 9,Grey,Synthetic,$150.00 ,10,$209.99,Bari
+305,Nike,Air Force 1 Low,Casual,Men,US 9.5,White,Leather,$90.00 ,85,$129.99,Bologna
+306,Adidas,NMD_R1,Lifestyle,Women,US 7.5,Pink/White,Primeknit,$130.00 ,51,$269.99,Naples
+307,Reebok,Zig Kinetica II,Running,Men,US 11,Black,Mesh,$120.00 ,73,$269.99,Naples
+308,Converse,Chuck 70 High,Casual,Men,US 8.5,Cream,Canvas,$85.00 ,15,$189.99,Milan
+309,Puma,Calibrate Runner,Running,Women,US 8,Black,Mesh,$90.00 ,3,$169.99,Milan
+310,Vans,Sk8-Hi,Skate,Men,US 10,Black/White,Suede/Canvas,$70.00 ,100,$249.99,Bologna
+311,New Balance,327,Lifestyle,Women,US 6.5,White/Green,Suede/Mesh,$90.00 ,51,$139.99,Milan
+312,Asics,Gel-Quantum 90,Running,Men,US 10,Blue,Mesh,$90.00 ,16,$269.99,Bologna
+313,Fila,Original Fitness,Fashion,Women,US 7.5,White/Navy,Leather/Synthetic,$65.00 ,94,$249.99,Milan
+314,Skechers,Go Walk 5,Walking,Men,US 9,Grey,Mesh,$65.00 ,59,$289.99,Palermo
+315,Nike,React Infinity Run Flyknit,Running,Women,US 8,Black,Flyknit,$160.00 ,37,$219.99,Bologna
+316,Adidas,Superstar,Casual,Men,US 8.5,White/Black,Leather,$85.00 ,62,$179.99,Bari
+317,Reebok,Nano 9,Crossfit,Women,US 7,Grey,Mesh,$130.00 ,63,$249.99,Milan
+318,Converse,Run Star Hike,Casual,Women,US 9,White,Canvas,$100.00 ,24,$179.99,Genoa
+319,Puma,RS-2K,Lifestyle,Men,US 10,White,Leather/Synthetic,$120.00 ,65,$289.99,Turin
+320,Vans,Era,Skate,Women,US 6.5,Black/White,Canvas,$50.00 ,7,$299.99,Turin
+321,New Balance,FuelCell Propel v3,Running,Men,US 9.5,Blue/Orange,Mesh,$100.00 ,30,$149.99,Genoa
+322,Asics,Gel-Kinsei OG,Running,Women,US 8.5,White/Black,Mesh,$180.00 ,74,$299.99,Bologna
+323,Fila,Trigate,Fashion,Men,US 9.5,White/Navy/Red,Synthetic,$60.00 ,35,$169.99,Catania
+324,Skechers,Summits,Walking,Women,US 7.5,Black/Pink,Mesh,$60.00 ,98,$249.99,Catania
+325,Nike,Air Force 1 Low,Casual,Men,US 9,White,Leather,$90.00 ,76,$109.99,Florence
+326,Adidas,NMD_R1,Lifestyle,Women,US 7,Pink,Primeknit,$140.00 ,77,$289.99,Bologna
+327,Reebok,Zig Kinetica,Running,Men,US 11,Black,Mesh,$120.00 ,82,$159.99,Genoa
+328,Converse,Chuck 70,Casual,Men,US 8,Grey,Canvas,$85.00 ,3,$169.99,Catania
+329,Puma,Clyde All-Pro,Basketball,Men,US 10.5,White,Leather,$130.00 ,46,$189.99,Catania
+330,Vans,SK8-Hi,Skate,Women,US 7,Black/White,Suede/Canvas,$70.00 ,67,$139.99,Milan
+331,New Balance,990v2,Running,Men,US 10,Grey,Suede/Mesh,$175.00 ,50,$269.99,Palermo
+332,Asics,Gel-Quantum 360 6,Running,Women,US 8,Black,Mesh,$150.00 ,76,$189.99,Florence
+333,Fila,Original Fitness,Casual,Men,US 9,White/Navy,Leather,$60.00 ,4,$69.99,Turin
+334,Skechers,Max Cushioning Premier,Running,Men,US 8.5,Grey,Mesh,$90.00 ,33,$279.99,Genoa
+335,Nike,Blazer Mid,Casual,Women,US 7.5,Red,Leather,$100.00 ,41,$199.99,Genoa
+336,Adidas,Superstar,Casual,Men,US 10,White/Black,Leather,$80.00 ,23,$199.99,Palermo
+337,Reebok,Classic Nylon,Casual,Women,US 8,Black/White,Nylon/Suede,$65.00 ,90,$129.99,Bologna
+338,Converse,All Star Pro BB,Basketball,Men,US 11,Black,Canvas,$120.00 ,29,$279.99,Milan
+339,Puma,Calibrate Runner,Running,Women,US 6.5,Blue,Mesh,$120.00 ,74,$299.99,Palermo
+340,Vans,Era,Skate,Men,US 9.5,Red,Canvas,$50.00 ,38,$119.99,Naples
+341,New Balance,Fresh Foam More v3,Running,Women,US 7.5,Grey,Mesh,$165.00 ,44,$209.99,Turin
+342,Asics,GT-2000 10,Running,Men,US 9.5,Black,Mesh,$120.00 ,16,$259.99,Bari
+343,Fila,D-Formation,Casual,Women,US 8.5,White,Leather,$70.00 ,14,$99.99,Bari
+344,Skechers,Equalizer 4.0,Walking,Men,US 12,Navy,Mesh,$65.00 ,2,$169.99,Palermo
+345,Nike,React Infinity Run Flyknit 2,Running,Women,US 9,Purple,Flyknit,$160.00 ,75,$209.99,Turin
+346,Nike,Air Force 1,Basketball,Men,US 11,White,Leather,$90.00 ,84,$239.99,Naples
+347,Adidas,Yeezy Boost 350 V2,Fashion,Women,US 8.5,Cream,Primeknit,$220.00 ,79,$259.99,Genoa
+348,Reebok,Zig Kinetica,Running,Men,US 12,Black,Mesh,$120.00 ,14,$129.99,Bologna
+349,Converse,Chuck 70,Casual,Women,US 7,Egret,Canvas,$85.00 ,91,$159.99,Turin
+350,Puma,Calibrate Runner,Running,Men,US 8.5,Black,Mesh,$80.00 ,80,$129.99,Bari
+351,Vans,Sk8-Hi,Skate,Women,US 9,Black/White,Canvas,$70.00 ,98,$89.99,Turin
+352,New Balance,FuelCell Rebel v2,Running,Men,US 10.5,Blue,Mesh,$130.00 ,51,$259.99,Milan
+353,Asics,Gel-Quantum 90,Running,Women,US 7,Black,Mesh,$80.00 ,68,$89.99,Florence
+354,Fila,Tracer,Fashion,Men,US 9.5,White/Navy,Leather/Synthetic,$65.00 ,47,$99.99,Palermo
+355,Skechers,D'Lites,Walking,Women,US 6.5,Black/White,Synthetic,$65.00 ,84,$249.99,Genoa
+356,Nike,React Infinity Run Flyknit 2,Running,Men,US 9,Black,Flyknit,$160.00 ,51,$189.99,Bari
+357,Adidas,NMD_R1 V2,Casual,Women,US 6.5,Pink,Primeknit,$130.00 ,29,$229.99,Milan
+358,Reebok,Club C Legacy,Casual,Men,US 11,Green,Leather,$80.00 ,49,$269.99,Bologna
+359,Converse,Jack Purcell,Casual,Women,US 7.5,White,Canvas,$65.00 ,31,$169.99,Turin
+360,Puma,Clyde All-Pro,Basketball,Men,US 10,Black,Leather,$130.00 ,61,$179.99,Florence
+361,Vans,Slip-On,Casual,Women,US 8.5,Black,Canvas,$50.00 ,74,$219.99,Genoa
+362,New Balance,Fresh Foam Hierro v6,Trail Running,Men,US 10,Grey/Orange,Synthetic/Mesh,$135.00 ,81,$189.99,Turin
+363,Asics,GT-2000 10,Running,Women,US 9,Black/Pink,Mesh,$120.00 ,85,$239.99,Bari
+364,Fila,Ray,Fashion,Men,US 11,White,Synthetic,$65.00 ,63,$169.99,Rome
+365,Skechers,Ultra Flex 2.0,Walking,Women,US 7.5,Navy/White,Mesh,$60.00 ,41,$219.99,Rome
+366,Nike,React Infinity Run,Running,Women,US 9.5,Grey/Pink,Mesh,$160.00 ,93,$239.99,Naples
+367,Adidas,Ultraboost 5.0 DNA,Running,Men,US 9,White,Primeknit,$180.00 ,83,$239.99,Naples
+368,Reebok,Nano X1,Training,Women,US 8.5,Black,Flexweave/Knit,$130.00 ,54,$179.99,Bologna
+369,Converse,Jack Purcell,Casual,Men,US 11,White,Canvas,$75.00 ,83,$239.99,Naples
+370,Puma,Calibrate Runner,Running,Men,US 10,Grey/Black,Mesh,$90.00 ,26,$259.99,Naples
+371,Vans,Sk8-Hi,Skate,Women,US 7,Black/White,Canvas/Suede,$65.00 ,29,$229.99,Turin
+372,New Balance,327,Lifestyle,Men,US 8.5,Blue/Orange,Suede/Nylon,$90.00 ,56,$139.99,Bari
+373,Asics,Gel-Cumulus 23,Running,Women,US 7.5,Pink,Mesh,$120.00 ,38,$159.99,Milan
+374,Fila,Trailblazer,Fashion,Men,US 9,Green/Orange,Leather/Synthetic,$80.00 ,75,$279.99,Florence
+375,Skechers,Go Walk Joy,Walking,Women,US 6.5,Black,Mesh,$54.99 ,41,$69.99,Bologna
+376,Nike,Blazer Mid '77,Casual,Men,US 10,White/Black,Leather,$100.00 ,63,$249.99,Catania
+377,Adidas,NMD_R1,Lifestyle,Women,US 6,Pink/White,Primeknit,$130.00 ,1,$159.99,Genoa
+378,Reebok,Legacy Lifter,Weightlifting,Men,US 9.5,Black/Gold,Leather,$200.00 ,29,$219.99,Naples
+379,Converse,Run Star Hike,Casual,Women,US 7.5,Pink,Canvas,$110.00 ,10,$289.99,Palermo
+380,Puma,Wild Rider,Lifestyle,Men,US 11,Black/White,Suede/Leather,$90.00 ,12,$209.99,Palermo
+381,Vans,Slip-On,Casual,Women,US 8,Black/White Checkerboard,Canvas,$50.00 ,1,$259.99,Bari
+382,New Balance,Fresh Foam 1080v10,Running,Men,US 12,Black/Green,Mesh,$150.00 ,91,$269.99,Palermo
+383,Asics,Gel-Quantum 360 6,Running,Women,US 9,Black/White,Mesh,$150.00 ,25,$169.99,Genoa
+384,Fila,Spaghetti,Fashion,Men,US 9.5,White/Navy,Leather/Synthetic,$75.00 ,66,$259.99,Naples
+385,Nike,Air Max 90,Running,Men,US 8.5,White,Leather,$120.00 ,74,$279.99,Palermo
+386,Adidas,NMD_R1,Lifestyle,Women,US 7,Black/Pink,Primeknit,$130.00 ,44,$249.99,Bari
+387,Reebok,Nano X,Crossfit,Men,US 9,Grey,Mesh,$130.00 ,19,$259.99,Naples
+388,Converse,All Star Pro BB,Basketball,Women,US 9.5,Purple,Canvas,$110.00 ,52,$209.99,Milan
+389,Puma,Suede Classic,Casual,Men,US 11,Black,Suede,$65.00 ,77,$249.99,Bologna
+390,Vans,Sk8-Hi,Skate,Women,US 7.5,Yellow,Suede,$65.00 ,30,$239.99,Palermo
+391,New Balance,574,Casual,Men,US 10,Grey,Suede/Mesh,$80.00 ,8,$199.99,Florence
+392,Asics,Gel-Quantum 360 6,Running,Women,US 8.5,Black,Mesh,$150.00 ,69,$239.99,Milan
+393,Fila,Original Fitness,Fashion,Men,US 10.5,White,Leather,$65.00 ,23,$289.99,Naples
+394,Skechers,Go Run 600,Running,Women,US 6,Pink,Mesh,$60.00 ,17,$229.99,Turin
+395,Nike,Air Force 1,Casual,Men,US 9.5,Grey,Leather,$90.00 ,63,$159.99,Bari
+396,Adidas,Yeezy Boost 350,Lifestyle,Women,US 6.5,Cream,Primeknit,$220.00 ,6,$279.99,Genoa
+397,Reebok,Legacy Lifter,Weightlifting,Men,US 10.5,Black,Leather,$200.00 ,19,$239.99,Genoa
+398,Converse,Pro Leather,Casual,Women,US 8.5,White/Green,Leather,$85.00 ,53,$119.99,Palermo
+399,Puma,RS-X³ Puzzle,Lifestyle,Men,US 8.5,Red,Synthetic,$110.00 ,74,$179.99,Palermo
+400,Vans,Slip-On,Skate,Women,US 8,Black/White,Canvas,$50.00 ,91,$149.99,Bologna
+401,New Balance,FuelCell Propel v3,Running,Men,US 9,Red,Mesh,$100.00 ,4,$299.99,Florence
+402,Asics,Gel-Kayano 28,Running,Women,US 7.5,White/Pink,Mesh,$160.00 ,99,$199.99,Palermo
+403,Fila,Disruptor Low,Fashion,Men,US 9.5,White/Navy,Synthetic,$60.00 ,1,$199.99,Naples
+404,Skechers,Elite Flex,Walking,Women,US 7.5,Black,Mesh,$70.00 ,12,$109.99,Milan
+405,Nike,Air Force 1 '07,Basketball,Men,US 9.5,White,Leather,$100.00 ,64,$109.99,Catania
+406,Adidas,NMD_R1,Running,Women,US 7,Grey,Primeknit,$140.00 ,95,$279.99,Rome
+407,Reebok,Aztrek Double Mix,Casual,Women,US 8,Pink/White,Suede/Mesh,$100.00 ,53,$189.99,Milan
+408,Converse,All Star Leather,Casual,Men,US 8.5,Black,Leather,$65.00 ,61,$99.99,Naples
+409,Puma,Calibrate Runner,Running,Men,US 10,Blue,Mesh,$90.00 ,5,$299.99,Bologna
+410,Vans,SK8-Hi,Skate,Women,US 6.5,Black/White,Suede/Canvas,$70.00 ,56,$189.99,Catania
+411,New Balance,Fresh Foam 880v11,Running,Men,US 11.5,Red,Mesh,$130.00 ,63,$149.99,Palermo
+412,Asics,Gel-Cumulus 23,Running,Women,US 9.5,Purple,Mesh,$120.00 ,50,$279.99,Bari
+413,Fila,Mindblower,Fashion,Men,US 9.5,White/Blue,Leather/Synthetic,$75.00 ,72,$289.99,Rome
+414,Skechers,Summits - Quick Lapse,Walking,Women,US 8,Black/Pink,Mesh,$60.00 ,46,$119.99,Palermo
+415,Nike,Air Max 97,Running,Men,US 11.5,Black,Leather/Synthetic,$170.00 ,53,$299.99,Rome
+416,Adidas,ZX 2K Boost,Casual,Women,US 7.5,White/Pink,Mesh/Synthetic,$150.00 ,68,$229.99,Turin
+417,Reebok,Club C Revenge,Casual,Men,US 10,White/Green,Leather,$80.00 ,42,$179.99,Palermo
+418,Converse,Chuck 70 High,Casual,Women,US 6,Red,Canvas,$85.00 ,34,$209.99,Turin
+419,Puma,Cali Sport,Lifestyle,Men,US 8.5,Black/White,Leather,$80.00 ,70,$269.99,Turin
+420,Vans,Slip-On,Skate,Women,US 7,Black/White,Canvas,$50.00 ,63,$239.99,Milan
+421,New Balance,Fresh Foam More v2,Running,Men,US 9,Grey,Mesh,$165.00 ,89,$189.99,Florence
+422,Asics,GT-2000 10,Running,Women,US 8,Blue,Mesh,$120.00 ,60,$149.99,Genoa
+423,Fila,Original Fitness,Fashion,Men,US 11,White,Leather,$60.00 ,57,$289.99,Bologna
+424,Nike,Air Force 1,Basketball,Men,US 11,White,Leather,$90.00 ,100,$179.99,Rome
+425,Adidas,NMD_R1,Running,Women,US 8,Pink,Primeknit,$140.00 ,58,$259.99,Florence
+426,Reebok,Zig Kinetica,Running,Men,US 10.5,Black,Mesh,$120.00 ,74,$159.99,Bologna
+427,Converse,Jack Purcell,Casual,Women,US 7.5,White,Canvas,$65.00 ,23,$209.99,Rome
+428,Puma,Clyde All-Pro,Basketball,Men,US 10.5,Black,Leather,$130.00 ,42,$259.99,Bologna
+429,Vans,Sk8-Hi,Skate,Women,US 9,Black/White,Canvas/Suede,$70.00 ,41,$219.99,Florence
+430,New Balance,Fresh Foam More v3,Running,Men,US 9.5,Blue,Mesh,$165.00 ,76,$269.99,Rome
+431,Asics,Gel-Kayano Lite,Running,Women,US 7.5,Black,Mesh,$120.00 ,12,$159.99,Catania
+432,Fila,Mindblower,Fashion,Men,US 9,Grey,Synthetic,$70.00 ,14,$279.99,Bari
+433,Skechers,D'Lites,Lifestyle,Women,US 8.5,White,Leather/Synthetic,$65.00 ,87,$129.99,Palermo
+434,Nike,Air Max 95,Running,Men,US 11,Grey,Synthetic,$170.00 ,93,$269.99,Rome
+435,Adidas,Superstar,Casual,Women,US 7,White/Black,Leather,$80.00 ,1,$119.99,Bari
+436,Reebok,DMX Series 2K,Casual,Men,US 9.5,White/Blue,Synthetic,$90.00 ,85,$229.99,Florence
+437,Converse,All Star Lift,Casual,Women,US 6.5,Black,Canvas,$65.00 ,1,$189.99,Genoa
+438,Puma,Ralph Sampson,Basketball,Men,US 11,White,Leather,$80.00 ,26,$219.99,Catania
+439,Vans,Era,Skate,Women,US 8.5,Red,Canvas,$55.00 ,31,$269.99,Rome
+440,New Balance,FuelCell Rebel v2,Running,Men,US 10,Black,Mesh,$130.00 ,49,$259.99,Bari
+441,Asics,Gel-Quantum 90,Running,Women,US 8,Black/Pink,Mesh,$80.00 ,39,$179.99,Naples
+442,Fila,Original Fitness,Casual,Men,US 8.5,White/Red,Leather,$65.00 ,78,$299.99,Bari
+443,Skechers,Elite Flex Wasick,Training,Women,US 7.5,Grey,Knit,$65.00 ,76,$269.99,Bologna
+444,Nike,React Infinity Run Flyknit,Running,Men,US 10,Blue,Flyknit,$160.00 ,3,$279.99,Florence
+445,Nike,Air Force 1 '07,Casual,Men,US 9,White/Black,Leather,$90.00 ,73,$249.99,Turin
+446,Adidas,Yeezy Boost 350 V2,Fashion,Women,US 8.5,Cream White,Primeknit/Synthetic,$220.00 ,84,$269.99,Turin
+447,Reebok,Nano X1 Adventure,Training,Men,US 10.5,Black,Mesh/Synthetic,$130.00 ,9,$289.99,Catania
+448,Converse,Jack Purcell,Casual,Women,US 7,White,Canvas,$65.00 ,39,$219.99,Catania
+449,Puma,Calibrate Runner,Running,Men,US 11,Grey,Mesh/Synthetic,$100.00 ,79,$189.99,Bologna
+450,Vans,SK8-Hi,Skate,Women,US 9.5,Purple,Canvas/Suede,$70.00 ,17,$159.99,Turin
+451,New Balance,FuelCell Rebel v2,Running,Men,US 9.5,Black/White,Mesh/Synthetic,$130.00 ,73,$199.99,Palermo
+452,Asics,Gel-Quantum 360 6,Running,Women,US 6,Pink,Mesh/Synthetic,$170.00 ,40,$239.99,Genoa
+453,Fila,Mindblower,Fashion,Men,US 8.5,Red/White,Synthetic/Leather,$75.00 ,97,$159.99,Palermo
+454,Skechers,Max Cushioning Elite,Running,Women,US 7,Navy,Mesh/Synthetic,$110.00 ,74,$209.99,Florence
+455,Nike,Air Max 90,Running,Men,US 8,Black/White,Leather/Mesh,$120.00 ,74,$129.99,Rome
+456,Adidas,NMD_R1,Fashion,Women,US 7,Grey,Knit/Synthetic,$140.00 ,60,$189.99,Florence
+457,Reebok,Nano X1 Grit,Training,Men,US 11,Grey/Black,Mesh/Synthetic,$130.00 ,4,$219.99,Florence
+458,Converse,All Star,Casual,Men,US 9,Navy,Canvas,$55.00 ,21,$169.99,Bologna
+459,Puma,Future Rider Play On,Lifestyle,Women,US 9,Yellow,Synthetic/Textile,$80.00 ,35,$249.99,Bari
+460,Vans,Era,Skate,Men,US 9.5,Black/White,Canvas,$50.00 ,10,$179.99,Milan
+461,New Balance,Fresh Foam X Beacon v3,Running,Women,US 7,White/Grey,Mesh,$120.00 ,13,$159.99,Catania
+462,Asics,Gel-Kayano 27,Running,Men,US 12,Black,Mesh/Synthetic,$160.00 ,99,$269.99,Bologna
+463,Fila,Trigate,Fashion,Women,US 8,Pink,Synthetic/Leather,$65.00 ,71,$139.99,Catania
+464,Nike,Air Force 1,Casual,Men,US 11,White,Leather,$90.00 ,53,$189.99,Naples
+465,Adidas,Yeezy Boost 350 V2,Fashion,Women,US 7,Cream,Primeknit,$220.00 ,31,$269.99,Naples
+466,Reebok,Nano X1,CrossFit,Men,US 10,Black/White,Mesh,$130.00 ,13,$279.99,Catania
+467,Converse,All Star,Casual,Women,US 8.5,Red,Canvas,$60.00 ,6,$269.99,Milan
+468,Puma,Calibrate Rest,Running,Men,US 8.5,Grey,Mesh,$100.00 ,56,$209.99,Milan
+469,Vans,Sk8-Hi,Skate,Men,US 9,Black/White,Suede/Canvas,$70.00 ,58,$149.99,Naples
+470,New Balance,327,Casual,Women,US 7,Green/White,Suede/Nylon,$90.00 ,87,$109.99,Naples
+471,Asics,Gel-Cumulus 23,Running,Men,US 9,Black,Mesh,$120.00 ,77,$209.99,Bari
+472,Fila,Mindblower,Fashion,Women,US 7.5,Pink,Leather,$75.00 ,36,$289.99,Rome
+473,Skechers,Max Cushioning,Walking,Men,US 11,Grey,Mesh,$90.00 ,65,$159.99,Florence
+474,Nike,React Infinity Run Flyknit 2,Running,Women,US 8,Blue,Flyknit,$160.00 ,24,$299.99,Florence
+475,Adidas,Ultraboost 20,Running,Men,US 9.5,White,Primeknit,$180.00 ,57,$269.99,Bari
+476,Reebok,Aztrek 96,Casual,Women,US 9,Purple,Synthetic,$90.00 ,59,$119.99,Catania
+477,Converse,Jack Purcell,Casual,Men,US 8.5,White,Canvas,$70.00 ,86,$129.99,Milan
+478,Puma,RS-X3,Fashion,Women,US 7.5,Pink,Leather/Synthetic,$110.00 ,49,$249.99,Catania
+479,Vans,Slip-On,Skate,Men,US 9.5,Checkerboard Black/White,Canvas,$50.00 ,18,$229.99,Palermo
+480,New Balance,FuelCell Rebel v2,Running,Women,US 8.5,Grey/Green,Mesh,$130.00 ,8,$279.99,Rome
+481,Asics,Gel-Quantum 360 6,Running,Men,US 10,Black,Mesh,$160.00 ,21,$189.99,Milan
+482,Fila,D-Formation,Fashion,Women,US 6,White/Black,Leather/Synthetic,$70.00 ,46,$119.99,Milan
+483,Skechers,Go Walk 5,Walking,Men,US 10,Black,Mesh,$65.00 ,29,$129.99,Milan
+484,Nike,Air Max 2090,Running,Women,US 7.5,Green,Mesh,$150.00 ,6,$279.99,Bologna
+485,Nike,React Infinity Run,Running,Men,US 9.5,Blue/Black,Mesh,$160.00 ,71,$179.99,Turin
+486,Adidas,NMD_R1,Lifestyle,Women,US 7.5,Grey,Primeknit,$130.00 ,72,$209.99,Palermo
+487,Reebok,Nano 9,Training,Men,US 10,Black,Flexweave,$130.00 ,90,$219.99,Milan
+488,Converse,All Star Pro BB,Basketball,Women,US 8.5,White,Leather,$100.00 ,99,$219.99,Florence
+489,Puma,Clyde Hardwood,Basketball,Men,US 8,Red/Black,Leather,$110.00 ,79,$299.99,Palermo
+490,Vans,Sk8-Hi,Skate,Women,US 7.5,Black/White,Suede/Canvas,$70.00 ,46,$289.99,Bologna
+491,New Balance,327,Casual,Men,US 9.5,Green,Suede/Mesh,$90.00 ,82,$119.99,Turin
+492,Asics,Gel-Quantum 360 6,Running,Women,US 8,Pink,Mesh/Synthetic,$160.00 ,80,$239.99,Genoa
+493,Fila,Mindblower,Fashion,Men,US 10,White/Red,Leather,$75.00 ,40,$229.99,Palermo
+494,Skechers,D'Lites,Walking,Women,US 7.5,Black,Leather/Synthetic,$60.00 ,44,$89.99,Florence
+495,Nike,Blazer Mid '77,Casual,Men,US 10,White/Black,Leather,$100.00 ,1,$189.99,Rome
+496,Adidas,Superstar,Casual,Women,US 8.5,White/Black,Leather,$80.00 ,72,$189.99,Milan
+497,Reebok,Classic Nylon,Casual,Men,US 11,Black,Nylon/Suede,$60.00 ,65,$239.99,Bologna
+498,Converse,Chuck 70,Casual,Women,US 7.5,Egret,Canvas,$85.00 ,42,$139.99,Florence
+499,Puma,Ralph Sampson Mid,Basketball,Men,US 9.5,White,Leather,$90.00 ,69,$239.99,Florence
+500,Vans,Era,Skate,Men,US 8.5,Red,Canvas,$55.00 ,21,$129.99,Florence
+501,New Balance,FuelCell Rebel v2,Running,Women,US 7,Purple,Mesh,$130.00 ,70,$289.99,Naples
+502,Asics,GT-2000 10,Running,Men,US 9.5,Grey,Mesh,$120.00 ,48,$159.99,Bologna
+503,Fila,Trailblazer,Hiking,Women,US 8,Beige,Leather/Synthetic,$85.00 ,25,$199.99,Milan
+504,Skechers,Summits,Training,Men,US 11,Black,Mesh,$60.00 ,34,$179.99,Catania
+505,Nike,Air Force 1,Basketball,Men,US 11,White,Leather,$90.00 ,38,$159.99,Bologna
+506,Adidas,Yeezy Boost 350 V2,Lifestyle,Men,US 10,Cream,Primeknit,$220.00 ,43,$279.99,Milan
+507,Reebok,Zig Kinetica,Running,Women,US 9,Pink,Mesh,$120.00 ,13,$169.99,Bari
+508,Converse,Chuck 70,Casual,Men,US 9,Black,Canvas,$85.00 ,61,$239.99,Florence
+509,Puma,Clyde All-Pro,Basketball,Men,US 9.5,Black,Leather,$130.00 ,11,$229.99,Bologna
+510,Vans,Sk8-Hi,Skate,Women,US 7,Black/White,Suede/Canvas,$70.00 ,81,$199.99,Florence
+511,New Balance,574,Casual,Men,US 8,Grey,Suede/Mesh,$80.00 ,83,$159.99,Milan
+512,Asics,Gel-Quantum 360,Running,Women,US 7.5,Grey,Mesh,$170.00 ,54,$209.99,Naples
+513,Fila,Mindblower,Fashion,Men,US 11,White/Red,Leather,$75.00 ,17,$159.99,Catania
+514,Skechers,Energy Wave Linxe,Walking,Women,US 8,Grey,Mesh,$60.00 ,59,$199.99,Bologna
+515,Nike,React Infinity Run Flyknit 2,Running,Men,US 9.5,Black/White,Flyknit,$160.00 ,8,$189.99,Turin
+516,Adidas,Ultraboost DNA,Running,Women,US 6.5,White,Primeknit,$180.00 ,4,$249.99,Catania
+517,Reebok,Nano X1,Training,Men,US 10,Blue,Mesh,$130.00 ,81,$229.99,Catania
+518,Converse,Jack Purcell,Casual,Women,US 7,White,Canvas,$65.00 ,58,$259.99,Palermo
+519,Puma,Calibrate Runner,Running,Men,US 10.5,Grey,Mesh,$120.00 ,5,$209.99,Genoa
+520,Vans,Slip-On,Skate,Men,US 8.5,Black/White,Canvas,$50.00 ,87,$249.99,Florence
+521,New Balance,FuelCell Rebel V2,Running,Women,US 7.5,Pink,Mesh,$110.00 ,49,$159.99,Palermo
+522,Asics,Gel-Kayano 27,Running,Men,US 11.5,Black,Mesh,$160.00 ,10,$209.99,Palermo
+523,Fila,Original Fitness,Casual,Women,US 8.5,White,Leather,$60.00 ,26,$109.99,Rome
+524,Skechers,Go Run Mojo 2.0,Running,Men,US 9,Black,Mesh,$55.00 ,14,$79.99,Catania
+525,Nike,Zoom Fly 3,Running,Women,US 9,Blue,Mesh,$160.00 ,90,$289.99,Milan
+526,Nike,Blazer Mid '77,Basketball,Men,US 11,White/Black,Leather,$100.00 ,71,$189.99,Genoa
+527,Adidas,Yeezy Boost 350 V2,Lifestyle,Women,US 6.5,Cloud White,Primeknit,$220.00 ,75,$259.99,Florence
+528,Reebok,Nano X1,CrossFit,Men,US 9.5,Black/White,Knit/Synthetic,$130.00 ,20,$289.99,Bologna
+529,Converse,Jack Purcell,Casual,Women,US 8,Pink,Canvas,$65.00 ,32,$159.99,Bari
+530,Puma,Calibrate,Running,Men,US 10,Grey/White,Mesh/Synthetic,$120.00 ,16,$209.99,Naples
+531,Vans,Sk8-Hi,Skate,Women,US 7,Black/White,Suede/Canvas,$70.00 ,52,$89.99,Bologna
+532,New Balance,574,Casual,Men,US 12,Navy/Red,Suede/Mesh,$85.00 ,71,$189.99,Bari
+533,Asics,Gel-Quantum 90,Running,Women,US 7.5,Black/Gold,Mesh/Synthetic,$90.00 ,75,$299.99,Bologna
+534,Fila,Original Fitness,Casual,Men,US 11,White/Navy/Red,Leather,$70.00 ,14,$149.99,Bari
+535,Skechers,Elite Flex,Walking,Women,US 9,Grey/Pink,Knit,$70.00 ,72,$269.99,Naples
+536,Nike,Air Zoom Pegasus 38,Running,Men,US 10,Blue,Mesh/Synthetic,$120.00 ,46,$149.99,Bologna
+537,Adidas,NMD_R1,Lifestyle,Women,US 8.5,Black/Pink,Knit,$140.00 ,96,$249.99,Bari
+538,Reebok,Floatride Energy 3,Running,Men,US 8.5,White/Black,Knit/Synthetic,$100.00 ,7,$129.99,Catania
+539,Converse,All Star Chuck 70,Skate,Women,US 9,Black,Canvas,$85.00 ,13,$119.99,Milan
+540,Puma,Clyde All-Pro,Basketball,Men,US 9,Black/Yellow,Leather/Synthetic,$130.00 ,80,$239.99,Bologna
+541,Vans,Era,Skate,Women,US 8,Multi-color,Canvas,$55.00 ,23,$249.99,Genoa
+542,New Balance,Fresh Foam 880v11,Running,Men,US 9.5,Grey,Mesh,$130.00 ,19,$159.99,Florence
+543,Asics,Gel-Kayano 28,Running,Women,US 9,Black,Mesh,$160.00 ,98,$259.99,Florence
+544,Fila,Trigate,Running,Men,US 10,Black/White,Mesh/Synthetic,$65.00 ,82,$119.99,Genoa
+545,Nike,React Infinity Run,Running,Men,US 9.5,Blue/Green,Mesh,$160.00 ,40,$269.99,Bologna
+546,Adidas,NMD_R1,Lifestyle,Women,US 8,White/Black,Primeknit,$140.00 ,25,$149.99,Palermo
+547,Reebok,Nano 9,CrossFit,Men,US 10,Black,Synthetic/Textile,$130.00 ,35,$189.99,Bari
+548,Converse,Jack Purcell,Casual,Women,US 7.5,White,Canvas,$65.00 ,55,$169.99,Milan
+549,Puma,Calibrate Runner,Running,Men,US 11,Black/White,Mesh,$120.00 ,55,$229.99,Florence
+550,Vans,Era,Skate,Women,US 7.5,Pink,Canvas,$50.00 ,3,$239.99,Bari
+551,New Balance,327,Casual,Men,US 8,Grey/Green,Suede/Mesh,$100.00 ,9,$239.99,Turin
+552,Asics,Gel-Quantum 180 5,Running,Women,US 9,Pink/Black,Mesh/Synthetic,$120.00 ,41,$159.99,Bologna
+553,Fila,D-Formation,Fashion,Men,US 9.5,White/Red,Leather/Synthetic,$70.00 ,58,$159.99,Milan
+554,Skechers,Max Cushioning Elite,Running,Women,US 6.5,Grey/Pink,Mesh,$90.00 ,8,$139.99,Naples
+555,Nike,ZoomX Vaporfly Next%,Running,Men,US 10,Black/White,Mesh,$250.00 ,67,$289.99,Palermo
+556,Adidas,Yeezy Boost 350 V2,Fashion,Women,US 7.5,Cream White,Primeknit,$220.00 ,16,$299.99,Florence
+557,Reebok,Aztrek 96,Casual,Men,US 11.5,Black/White,Suede/Textile,$90.00 ,12,$129.99,Florence
+558,Converse,Chuck 70,Casual,Women,US 6.5,Sunflower,Canvas,$85.00 ,20,$149.99,Florence
+559,Puma,Future Rider,Lifestyle,Men,US 10,Blue/Red,Synthetic/Mesh,$80.00 ,69,$99.99,Naples
+560,Vans,Sk8-Hi,Skate,Women,US 8,Yellow,Canvas/Suede,$65.00 ,46,$159.99,Genoa
+561,New Balance,Fresh Foam More,Running,Men,US 9.5,Black/White,Mesh,$165.00 ,7,$179.99,Rome
+562,Asics,Gel-Kayano 28,Running,Women,US 7,White/Pink,Mesh,$160.00 ,53,$239.99,Rome
+563,Fila,Venom,Fashion,Men,US 8.5,White/Red/Navy,Leather/Synthetic,$65.00 ,77,$89.99,Catania
+564,Nike,Air Force 1 '07,Basketball,Men,US 11,White,Leather,$90.00 ,10,$189.99,Milan
+565,Adidas,NMD_R1,Lifestyle,Women,US 8,Pink,Primeknit,$130.00 ,16,$159.99,Rome
+566,Reebok,Nano X1 Adventure,Training,Men,US 10.5,Grey,Flexweave,$130.00 ,75,$269.99,Palermo
+567,Converse,Jack Purcell Low Top,Casual,Women,US 7,White,Canvas,$65.00 ,42,$179.99,Bari
+568,Puma,Clyde All-Pro,Basketball,Men,US 12,Black/White,Leather/Synthetic,$130.00 ,73,$279.99,Milan
+569,Vans,SK8-Hi,Skate,Women,US 7.5,Pink,Suede/Canvas,$65.00 ,12,$289.99,Rome
+570,New Balance,327,Lifestyle,Men,US 9.5,Green,Suede/Mesh,$90.00 ,21,$139.99,Turin
+571,Asics,Gel-Lyte III,Lifestyle,Women,US 9,Black/Grey,Leather/Suede,$110.00 ,51,$149.99,Bologna
+572,Fila,Original Fitness,Fashion,Men,US 9.5,White,Leather,$60.00 ,67,$209.99,Florence
+573,Skechers,Max Cushioning Elite,Running,Women,US 7,Black,Mesh,$100.00 ,89,$149.99,Milan
+574,Nike,Air Zoom Pegasus 38,Running,Men,US 10,Blue,Mesh,$120.00 ,24,$299.99,Florence
+575,Adidas,Harden Vol. 5,Basketball,Women,US 8.5,Grey,Textile,$130.00 ,30,$149.99,Florence
+576,Reebok,DMX Trail Shadow,Running,Men,US 9,Orange,Synthetic/Mesh,$120.00 ,75,$209.99,Naples
+577,Converse,Chuck 70 High Top,Casual,Men,US 11.5,Black,Canvas,$85.00 ,89,$239.99,Bari
+578,Puma,RS-X Hard Drive,Lifestyle,Women,US 6.5,Silver/White,Mesh/Synthetic,$120.00 ,65,$209.99,Rome
+579,Vans,Era,Skate,Men,US 8.5,Red,Canvas,$50.00 ,70,$79.99,Bari
+580,New Balance,Fresh Foam More v3,Running,Women,US 8,Black,Mesh/Synthetic,$165.00 ,24,$259.99,Naples
+581,Asics,Gel-Quantum 360 6,Running,Men,US 10.5,Black/Red,Mesh/Synthetic,$170.00 ,31,$219.99,Naples
+582,Fila,Mindblower,Fashion,Women,US 7,Pink,Synthetic,$75.00 ,41,$169.99,Genoa
+583,Skechers,D'Lites Fresh Start,Walking,Men,US 12,White,Synthetic/Leather,$65.00 ,23,$199.99,Rome
+584,Nike,Blazer Mid '77,Skate,Men,US 9,Black/White,Leather,$100.00 ,8,$199.99,Turin
+585,Adidas,Ultraboost DNA,Running,Women,US 8.5,Grey,Primeknit,$180.00 ,100,$249.99,Milan
+586,Reebok,Classic Nylon,Casual,Men,US 12,Navy,Nylon,$65.00 ,99,$199.99,Palermo
+587,Converse,Chuck 70,Casual,Women,US 6.5,Pink,Canvas,$85.00 ,52,$159.99,Palermo
+588,Puma,Calibrate Runner,Running,Men,US 10,Black,Mesh,$90.00 ,78,$259.99,Rome
+589,Vans,Sk8-Hi,Skate,Women,US 7.5,Red,Canvas/Suede,$70.00 ,85,$89.99,Florence
+590,New Balance,Fresh Foam More,Running,Men,US 9.5,Black,Mesh,$160.00 ,6,$209.99,Genoa
+591,Asics,Gel-Quantum 180,Running,Women,US 7.5,Blue,Mesh,$120.00 ,55,$229.99,Naples
+592,Fila,D-Formation,Fashion,Men,US 11,White,Leather,$70.00 ,49,$109.99,Catania
+593,Skechers,Solar Fuse,Walking,Women,US 8,Grey,Mesh,$70.00 ,93,$229.99,Genoa
+594,Nike,Air Max 2090,Running,Men,US 10.5,Green,Mesh,$150.00 ,25,$189.99,Florence
+595,Adidas,Adilette Shower,Slides,Women,US 6,Pink,Synthetic,$25.00 ,94,$219.99,Florence
+596,Reebok,Nano X1,Training,Men,US 11,Red,Mesh,$130.00 ,67,$239.99,Florence
+597,Converse,Jack Purcell,Casual,Women,US 7.5,White,Canvas,$75.00 ,12,$289.99,Genoa
+598,Puma,Suede Classic+,Casual,Men,US 8,Black,Suede,$65.00 ,99,$269.99,Rome
+599,Vans,Slip-On,Skate,Women,US 9,Checkerboard Black/White,Canvas,$50.00 ,92,$139.99,Bari
+600,New Balance,FuelCell Rebel v2,Running,Men,US 8.5,Green,Mesh,$130.00 ,32,$179.99,Rome
+601,Asics,Gel-Sonoma 6,Trail,Women,US 6.5,Grey,Mesh,$75.00 ,75,$99.99,Turin
+602,Fila,Ray Tracer Evo,Fashion,Men,US 12,Black,Synthetic,$65.00 ,27,$239.99,Genoa
+603,Skechers,Max Cushioning,Running,Women,US 8,Navy,Mesh,$85.00 ,88,$239.99,Genoa
+604,Nike,React Infinity Run Flyknit,Running,Men,US 11,Blue,Flyknit,$160.00 ,36,$289.99,Catania
+605,Nike,Air Force 1 Low,Casual,Men,US 12,White,Leather,$90.00 ,16,$289.99,Florence
+606,Adidas,Yeezy Boost 350,Fashion,Women,US 8,Cream White,Primeknit,$220.00 ,30,$249.99,Catania
+607,Reebok,Nano 9,Training,Men,US 11,Black/Gum,Flexweave/Cushioning,$130.00 ,76,$139.99,Genoa
+608,Converse,Jack Purcell,Casual,Women,US 7.5,Egret/Black,Canvas,$65.00 ,31,$159.99,Catania
+609,Puma,Calibrate Runner,Running,Men,US 10.5,Grey,Mesh,$100.00 ,75,$139.99,Catania
+610,Vans,Sk8-Hi,Skate,Women,US 9.5,Black/White,Canvas/Suede,$70.00 ,64,$119.99,Milan
+611,New Balance,997H,Casual,Men,US 9.5,Black/Grey,Suede/Mesh,$89.99 ,48,$149.99,Florence
+612,Asics,Gel-Cumulus 22,Running,Women,US 8,Pink,Mesh,$120.00 ,7,$239.99,Palermo
+613,Fila,Mindblower,Fashion,Men,US 8.5,White/Navy/Red,Synthetic/Leather,$75.00 ,88,$159.99,Bologna
+614,Skechers,Go Walk 5,Walking,Women,US 7,Black,Mesh,$60.00 ,8,$169.99,Palermo
+615,Nike,Blazer Low,Casual,Men,US 10,Black,Leather,$85.00 ,73,$199.99,Bologna
+616,Adidas,Ultraboost 6.0,Running,Women,US 7,Grey,Primeknit,$180.00 ,53,$199.99,Bologna
+617,Reebok,Aztrek 96,Casual,Men,US 12,White/Black,Synthetic,$90.00 ,2,$299.99,Bologna
+618,Converse,Pro Leather,Basketball,Women,US 8.5,White,Leather,$75.00 ,61,$149.99,Catania
+619,Puma,Suede Classic,Casual,Men,US 9.5,Black/White,Suede,$65.00 ,48,$279.99,Turin
+620,Vans,Era,Skate,Women,US 8,True White,Canvas,$50.00 ,81,$179.99,Bari
+621,New Balance,1500v6,Racing,Men,US 8,Orange,Mesh,$110.00 ,55,$199.99,Bari
+622,Asics,Gel-Kayano 27,Running,Women,US 7,Grey,Mesh,$160.00 ,91,$229.99,Palermo
+623,Fila,Original Fitness,Casual,Men,US 10.5,Black,Leather,$60.00 ,7,$199.99,Palermo
+624,Skechers,Go Run Mojo,Running,Women,US 9.5,Grey/Pink,Mesh,$60.00 ,56,$189.99,Bari
+625,Nike,Air Force 1,Casual,Men,US 10.5,White,Leather,$90.00 ,61,$109.99,Rome
+626,Adidas,NMD_R1,Lifestyle,Women,US 8.5,Grey/Pink,Primeknit,$140.00 ,24,$279.99,Catania
+627,Reebok,Nano X1 Adventure,Training,Men,US 11,Black,Knit,$130.00 ,33,$249.99,Florence
+628,Converse,Chuck 70,Casual,Women,US 7,Pink,Canvas,$85.00 ,21,$209.99,Bari
+629,Puma,Cali Sport,Fashion,Women,US 6.5,White/Black,Leather,$80.00 ,66,$239.99,Bari
+630,Vans,Sk8-Hi,Skate,Men,US 9.5,Blue/White,Suede/Canvas,$70.00 ,53,$149.99,Bari
+631,New Balance,Fresh Foam More v3,Running,Women,US 7.5,Pink/White,Mesh,$165.00 ,77,$289.99,Catania
+632,Asics,Gel-Cumulus 23,Running,Men,US 9.5,Black,Mesh,$120.00 ,54,$159.99,Naples
+633,Fila,Trail Blazer,Hiking,Women,US 9.5,Green,Suede/Leather,$70.00 ,37,$99.99,Catania
+634,Skechers,Go Run Mojo Pep,Running,Men,US 8.5,Black,Mesh,$70.00 ,31,$99.99,Bari
+635,Nike,Air Zoom Pegasus 38,Running,Women,US 6.5,Blue/Pink,Mesh,$120.00 ,100,$269.99,Palermo
+636,Adidas,Superstar,Casual,Men,US 11,White/Black,Leather,$80.00 ,75,$199.99,Turin
+637,Reebok,Classic Nylon,Casual,Women,US 8.5,Purple,Nylon,$65.00 ,78,$199.99,Rome
+638,Converse,Jack Purcell,Casual,Men,US 9,White,Canvas,$70.00 ,85,$149.99,Palermo
+639,Puma,Suede Classic+,Casual,Women,US 7,Black,Suede,$65.00 ,96,$169.99,Bari
+640,Vans,Era,Skate,Men,US 10.5,Black/White,Canvas,$55.00 ,68,$269.99,Palermo
+641,New Balance,574,Casual,Women,US 9,Grey/White,Suede/Mesh,$80.00 ,87,$139.99,Turin
+642,Asics,Gel-Contend 7,Running,Men,US 10,Blue,Mesh,$70.00 ,39,$249.99,Bologna
+643,Fila,Trigate,Running,Women,US 7,Black/Pink,Synthetic/Mesh,$70.00 ,30,$179.99,Rome
+644,Skechers,Flex Appeal 4.0,Training,Men,US 8.5,Grey/Orange,Knit,$70.00 ,32,$169.99,Catania
+645,Nike,Air Force 1 Low,Casual,Men,US 9.5,White,Leather,$90.00 ,27,$269.99,Milan
+646,Adidas,Yeezy Boost 350 V2,Lifestyle,Men,US 11,Cream White,Primeknit,$220.00 ,51,$259.99,Milan
+647,Reebok,Aztrek,Retro,Women,US 7.5,Black/Gold/Red,Suede/Mesh,$90.00 ,74,$189.99,Milan
+648,Converse,Jack Purcell,Casual,Men,US 8,Navy,Canvas,$65.00 ,14,$119.99,Florence
+649,Puma,Calibrate Runner,Running,Women,US 8,Grey/White,Mesh,$80.00 ,87,$199.99,Bologna
+650,Vans,Era,Skate,Men,US 10,Black/White,Canvas,$55.00 ,12,$199.99,Milan
+651,New Balance,327,Retro,Men,US 12,Grey/Orange,Suede/Mesh,$100.00 ,93,$189.99,Catania
+652,Asics,Gel-Kayano 27,Running,Women,US 9.5,Blue/Pink,Mesh,$160.00 ,64,$229.99,Bologna
+653,Fila,D-Formation,Fashion,Men,US 9,Black,Leather/Synthetic,$65.00 ,61,$219.99,Catania
+654,Skechers,Go Run Ride 8,Running,Women,US 7.5,Black/Pink,Mesh,$90.00 ,29,$159.99,Rome
+655,Nike,React Infinity Run,Running,Men,US 11,Black,Mesh/Synthetic,$160.00 ,87,$259.99,Milan
+656,Adidas,NMD_R1,Lifestyle,Women,US 8,Black/Grey,Primeknit,$130.00 ,96,$259.99,Palermo
+657,Reebok,Club MEMT,Casual,Men,US 9.5,White/Grey,Leather,$65.00 ,20,$149.99,Catania
+658,Converse,Chuck 70,Skate,Women,US 6.5,White,Canvas,$85.00 ,64,$109.99,Rome
+659,Puma,Clyde,Retro,Men,US 8,Red,Suede,$80.00 ,100,$279.99,Turin
+660,Vans,Sk8-Hi,Skate,Women,US 7.5,Pink/White,Canvas,$65.00 ,40,$109.99,Genoa
+661,New Balance,1080v10,Running,Men,US 10.5,Grey,Mesh,$150.00 ,1,$209.99,Milan
+662,Asics,Gel-Quantum 180,Running,Women,US 7.5,Black/White,Mesh,$140.00 ,40,$249.99,Florence
+663,Fila,Original Fitness,Casual,Men,US 10,White/Navy/Red,Leather,$60.00 ,21,$259.99,Catania
+664,Skechers,Summits,Walking,Women,US 9,Black/Grey,Mesh,$60.00 ,31,$279.99,Turin
+665,Nike,Air Force 1,Basketball,Men,US 11,White,Leather,$90.00 ,19,$149.99,Florence
+666,Adidas,Yeezy Boost 350 V2,Lifestyle,Men,US 9,Natural,Primeknit,$220.00 ,24,$259.99,Bari
+667,Reebok,Legacy Lifter,Weightlifting,Men,US 10.5,Black,Synthetic,$150.00 ,79,$169.99,Rome
+668,Converse,Jack Purcell,Casual,Women,US 7.5,White,Canvas,$75.00 ,28,$179.99,Catania
+669,Puma,Calibrate Runner,Running,Men,US 10,Grey,Mesh,$100.00 ,37,$289.99,Genoa
+670,Vans,Slip-On,Skate,Women,US 8.5,Checkered,Canvas,$50.00 ,19,$219.99,Florence
+671,New Balance,327,Casual,Men,US 9,Navy/Red,Suede/Nylon,$100.00 ,61,$229.99,Turin
+672,Asics,Gel-Quantum 360 6,Running,Women,US 8.5,Pink,Mesh,$150.00 ,21,$269.99,Palermo
+673,Fila,Mindblower,Fashion,Men,US 11,White/Navy,Synthetic,$75.00 ,15,$199.99,Milan
+674,Skechers,Go Run Mojo,Running,Women,US 7.5,Black/Pink,Mesh,$65.00 ,51,$219.99,Catania
+675,Nike,Zoom Fly 3,Running,Men,US 10,Black,Mesh,$160.00 ,1,$269.99,Rome
+676,Adidas,Ultra Boost DNA,Running,Women,US 8.5,Grey,Primeknit,$180.00 ,73,$259.99,Naples
+677,Reebok,Nano 9,Crossfit,Men,US 9.5,Grey/Black,Mesh,$130.00 ,11,$249.99,Florence
+678,Converse,Pro Leather,Skate,Women,US 6,White,Leather,$75.00 ,94,$299.99,Genoa
+679,Puma,Clyde All-Pro,Basketball,Men,US 11.5,White/Black,Leather,$130.00 ,60,$159.99,Catania
+680,Vans,Sk8-Hi,Skate,Men,US 8.5,Black/White,Suede/Canvas,$70.00 ,18,$159.99,Florence
+681,New Balance,574,Casual,Women,US 7.5,Burgundy,Suede/Leather,$80.00 ,72,$279.99,Naples
+682,Asics,Gel-Cumulus 23,Running,Men,US 11.5,Black/Red,Mesh,$120.00 ,63,$219.99,Turin
+683,Fila,Original Fitness,Casual,Women,US 8.5,White/Navy,Leather,$65.00 ,30,$149.99,Naples
+684,Skechers,Go Walk 5,Walking,Men,US 9,Charcoal,Mesh,$65.00 ,43,$129.99,Bari
+685,Nike,Air Force 1,Casual,Men,US 8.5,White,Leather,$90.00 ,36,$149.99,Milan
+686,Adidas,Yeezy Boost 350,Lifestyle,Men,US 10,Grey,Primeknit,$220.00 ,29,$289.99,Bologna
+687,Reebok,Nano 9,Crossfit,Women,US 7,Black,Mesh,$130.00 ,5,$249.99,Naples
+688,Converse,All Star,Casual,Men,US 9,Red,Canvas,$55.00 ,58,$259.99,Bari
+689,Puma,Clyde Court,Basketball,Men,US 11,Black,Mesh,$120.00 ,100,$259.99,Palermo
+690,Vans,Sk8-Hi,Skate,Women,US 7.5,Red,Suede,$65.00 ,57,$79.99,Bologna
+691,New Balance,327,Lifestyle,Men,US 9,Green,Suede/Mesh,$90.00 ,21,$159.99,Palermo
+692,Asics,Gel-Kinsei OG,Running,Women,US 8.5,White,Mesh,$180.00 ,19,$279.99,Palermo
+693,Fila,Mindblower,Fashion,Men,US 10,Blue,Synthetic,$75.00 ,37,$129.99,Bari
+694,Skechers,Go Walk 5,Walking,Women,US 8,Grey,Mesh,$60.00 ,49,$279.99,Genoa
+695,Nike,Zoom Pegasus 38,Running,Men,US 10,Black,Mesh,$120.00 ,30,$149.99,Bari
+696,Adidas,NMD_R1,Lifestyle,Women,US 7.5,Black/Pink,Primeknit,$140.00 ,24,$169.99,Genoa
+697,Reebok,Aztrek 96,Casual,Men,US 11,Grey,Synthetic,$90.00 ,96,$219.99,Florence
+698,Converse,Pro Leather,Basketball,Women,US 8.5,White,Leather,$85.00 ,13,$269.99,Catania
+699,Puma,RS-X,Lifestyle,Men,US 9,Black,Leather,$110.00 ,37,$259.99,Rome
+700,Vans,Era,Skate,Women,US 6.5,Black,Canvas,$50.00 ,68,$169.99,Bologna
+701,New Balance,FuelCell Rebel v2,Running,Women,US 9.5,Blue,Mesh,$130.00 ,37,$209.99,Bari
+702,Asics,Gel-Quantum 360 6,Running,Men,US 9,Black/Grey,Mesh,$180.00 ,57,$189.99,Milan
+703,Fila,V94M Low,Fashion,Women,US 7,White/Pink,Leather,$75.00 ,74,$179.99,Naples
+704,Skechers,Stamina,Training,Men,US 9,Black,Leather,$65.00 ,41,$119.99,Palermo
+705,Nike,SB Dunk Low,Skate,Men,US 9.5,Orange,Leather,$100.00 ,83,$219.99,Naples
+706,Nike,Air Force 1,Casual,Men,US 11,White/Black,Leather,$90.00 ,70,$269.99,Turin
+707,Adidas,Yeezy Boost 350 V2,Fashion,Women,US 8.5,Cinder,Primeknit,$220.00 ,82,$249.99,Genoa
+708,Reebok,Zig Kinetica II,Running,Men,US 9.5,Black/White,Mesh/Synthetic,$120.00 ,50,$189.99,Bari
+709,Converse,Jack Purcell,Casual,Women,US 7.5,Black/White,Canvas,$65.00 ,11,$129.99,Milan
+710,Puma,Calibrate Runner,Running,Men,US 10,Grey,Mesh,$100.00 ,44,$249.99,Naples
+711,Vans,Sk8-Hi,Skate,Women,US 6.5,Blue/White,Suede/Canvas,$70.00 ,79,$89.99,Naples
+712,New Balance,574 Classic,Casual,Men,US 9.5,Black/Yellow,Suede/Mesh,$80.00 ,21,$279.99,Florence
+713,Asics,Gel-Kayano Lite,Running,Women,US 8.5,Purple,Mesh/Synthetic,$120.00 ,15,$169.99,Florence
+714,Fila,Trailblazer,Fashion,Men,US 10.5,Black/Gold,Leather/Suede,$75.00 ,4,$189.99,Rome
+715,Skechers,Uno Bold,Lifestyle,Women,US 7.5,Pink/White,Synthetic,$70.00 ,46,$299.99,Catania
+716,Nike,Air Max 2090,Running,Men,US 11.5,Black/White,Mesh/Synthetic,$150.00 ,97,$249.99,Catania
+717,Adidas,Ultra Boost DNA,Running,Women,US 8,Grey/White,Primeknit,$180.00 ,96,$229.99,Genoa
+718,Reebok,Classic Leather,Casual,Men,US 12,Navy/White,Leather,$75.00 ,61,$239.99,Bari
+719,Converse,Chuck 70,Casual,Women,US 9,Red,Canvas,$85.00 ,18,$189.99,Turin
+720,Puma,Suede Classic,Casual,Men,US 9.5,Red/White,Suede,$65.00 ,60,$279.99,Bologna
+721,Vans,Era,Skate,Women,US 7,Black/White,Canvas,$55.00 ,44,$249.99,Florence
+722,New Balance,FuelCell Rebel v2,Running,Men,US 10.5,Blue/Yellow,Mesh,$100.00 ,55,$119.99,Palermo
+723,Asics,Gel-Quantum 360 6,Running,Women,US 7.5,White/Grey,Mesh/Synthetic,$180.00 ,50,$249.99,Florence
+724,Fila,Strada,Fashion,Men,US 11,White/Red/Blue,Synthetic,$70.00 ,52,$149.99,Genoa
+725,Nike,Air Force 1,Casual,Men,US 12,White,Leather,$90.00 ,13,$299.99,Florence
+726,Adidas,NMD_R1,Lifestyle,Women,US 7,Pink,Primeknit,$140.00 ,29,$259.99,Milan
+727,Reebok,Nano X1,Training,Men,US 11,Black,Flexweave,$130.00 ,22,$189.99,Florence
+728,Converse,Jack Purcell,Casual,Men,US 9,White,Canvas,$65.00 ,2,$109.99,Turin
+729,Puma,Clyde All-Pro,Basketball,Men,US 10.5,Black,Leather,$130.00 ,52,$199.99,Genoa
+730,Vans,Sk8-Hi,Skate,Women,US 8,Black/White,Suede/Canvas,$65.00 ,40,$189.99,Turin
+731,New Balance,327,Lifestyle,Men,US 9.5,Grey,Suede/Mesh,$90.00 ,18,$279.99,Catania
+732,Asics,Gel-Quantum 360 6,Running,Women,US 8.5,Black/Pink,Mesh/Synthetic,$160.00 ,49,$299.99,Bologna
+733,Fila,Mindblower,Fashion,Men,US 10,White/Black,Leather/Synthetic,$75.00 ,87,$189.99,Palermo
+734,Skechers,Max Cushioning Elite,Running,Women,US 7,Grey/Pink,Mesh,$90.00 ,84,$169.99,Naples
+735,Nike,ZoomX Invincible,Running,Men,US 10.5,Blue,Mesh,$180.00 ,7,$279.99,Milan
+736,Adidas,Harden Vol. 5,Basketball,Women,US 8.5,Purple,Synthetic,$130.00 ,75,$179.99,Rome
+737,Reebok,Classic Nylon,Casual,Men,US 12,Navy,Nylon,$60.00 ,71,$249.99,Bari
+738,Converse,Chuck 70,Casual,Women,US 7,Ivory,Canvas,$85.00 ,70,$159.99,Naples
+739,Puma,Suede Classic+,Casual,Men,US 8.5,Black/White,Suede,$65.00 ,99,$259.99,Florence
+740,Vans,Era,Skate,Men,US 9.5,Red,Canvas,$50.00 ,42,$249.99,Naples
+741,New Balance,FuelCell Prism,Running,Women,US 9.5,Black,Mesh,$90.00 ,76,$239.99,Bari
+742,Asics,Gel-Excite 8,Running,Men,US 9,Grey/Black,Mesh,$75.00 ,60,$229.99,Genoa
+743,Fila,Spaghetti,Fashion,Women,US 7,White,Leather/Synthetic,$70.00 ,78,$99.99,Bologna
+744,Skechers,D'Lites Fresh Start,Walking,Men,US 10.5,Black,Leather,$60.00 ,31,$119.99,Bari
+745,Nike,Air Force 1,Casual,Men,US 11,White,Leather,$90.00 ,8,$229.99,Bologna
+746,Adidas,NMD_R1,Lifestyle,Women,US 8,Black,Primeknit,$140.00 ,77,$249.99,Florence
+747,Reebok,Nano 9,Training,Men,US 10.5,Red,Mesh,$130.00 ,100,$259.99,Bari
+748,Converse,Jack Purcell,Casual,Women,US 7.5,White,Canvas,$65.00 ,49,$119.99,Naples
+749,Puma,Calibrate Runner,Running,Men,US 8.5,Black,Mesh,$90.00 ,22,$289.99,Genoa
+750,Vans,Sk8-Hi,Skate,Women,US 9,Purple,Suede/Canvas,$65.00 ,43,$219.99,Bari
+751,New Balance,Fresh Foam More v3,Running,Women,US 9,Grey,Mesh,$160.00 ,5,$209.99,Genoa
+752,Asics,Gel-Kahana 8,Running,Men,US 9.5,Blue,Mesh,$85.00 ,28,$179.99,Palermo
+753,Fila,Tracer,Fashion,Women,US 7.5,White,Synthetic,$65.00 ,9,$119.99,Genoa
+754,Skechers,Summits,Walking,Men,US 12,Black,Mesh,$65.00 ,23,$169.99,Turin
+755,Nike,Epic React Flyknit,Running,Women,US 7.5,Grey,Flyknit,$150.00 ,45,$179.99,Turin
+756,Adidas,Ultraboost 4.0,Running,Men,US 11,Black,Primeknit,$180.00 ,41,$259.99,Catania
+757,Reebok,Legacy Lifter,Weightlifting,Men,US 9,White/Black,Synthetic,$200.00 ,44,$219.99,Naples
+758,Converse,All Star Pro BB,Basketball,Women,US 7,Green,Leather,$100.00 ,91,$159.99,Turin
+759,Puma,Cell Venom,Lifestyle,Men,US 10,Grey,Leather,$90.00 ,41,$209.99,Palermo
+760,Vans,Slip-On,Casual,Women,US 6.5,Checkerboard,Canvas,$50.00 ,95,$109.99,Catania
+761,New Balance,574,Casual,Men,US 12,Burgundy,Suede/Mesh,$80.00 ,7,$179.99,Naples
+762,Asics,Gel-Quantum 360 6,Running,Women,US 8.5,Pink,Mesh,$150.00 ,69,$219.99,Catania
+763,Nike,Air Max 95,Running,Men,US 9,Grey,Leather/Synthetic,$170.00 ,12,$299.99,Bari
+764,Adidas,NMD_R1,Lifestyle,Women,US 7.5,Pink,Primeknit,$140.00 ,97,$209.99,Milan
+765,Reebok,Nano X1,Training,Men,US 11,Black,Mesh,$130.00 ,80,$269.99,Palermo
+766,Converse,Jack Purcell,Casual,Men,US 8,White,Canvas,$65.00 ,89,$279.99,Rome
+767,Puma,Calibrate Rest,Running,Women,US 8.5,Black,Mesh,$100.00 ,31,$249.99,Milan
+768,Vans,SK8-Hi,Skate,Men,US 9.5,Red,Suede/Canvas,$70.00 ,89,$239.99,Florence
+769,New Balance,327,Lifestyle,Women,US 6.5,Grey,Suede/Mesh,$100.00 ,50,$129.99,Milan
+770,Asics,Gel-Quantum 360 6,Running,Men,US 10.5,Black,Mesh,$180.00 ,97,$239.99,Rome
+771,Fila,Original Fitness,Casual,Women,US 9,White,Leather,$70.00 ,47,$269.99,Rome
+772,Skechers,Max Cushioning,Running,Men,US 10,Blue,Mesh,$90.00 ,60,$189.99,Milan
+773,Nike,React Infinity Run Flyknit,Running,Women,US 8,Blue,Flyknit,$160.00 ,98,$269.99,Genoa
+774,Adidas,Yeezy Boost 350 V2,Lifestyle,Men,US 9,Cream White,Primeknit,$220.00 ,87,$279.99,Bologna
+775,Reebok,Classic Nylon,Casual,Women,US 7.5,Pink,Nylon,$65.00 ,4,$279.99,Naples
+776,Converse,Chuck 70,Casual,Men,US 9,Black,Canvas,$85.00 ,11,$239.99,Turin
+777,Puma,Clyde All-Pro,Basketball,Women,US 7.5,White,Leather,$130.00 ,42,$269.99,Bologna
+778,Vans,Era,Skate,Men,US 10,Black/White,Canvas,$55.00 ,56,$149.99,Bari
+779,New Balance,574,Lifestyle,Women,US 8,Grey,Suede/Textile,$80.00 ,89,$299.99,Bologna
+780,Asics,Gel-Excite 8,Running,Men,US 9.5,Blue,Mesh,$70.00 ,98,$109.99,Genoa
+781,Fila,F-13,Fashion,Men,US 11,Black,Leather,$65.00 ,18,$259.99,Catania
+782,Skechers,Go Walk 5,Walking,Women,US 6.5,Black,Mesh,$60.00 ,88,$99.99,Turin
+783,Nike,Air Force 1,Casual,Men,US 8.5,White,Leather,$90.00 ,11,$189.99,Rome
+784,Nike,Air Force 1,Casual,Men,US 9,White,Leather,$90.00 ,64,$279.99,Bologna
+785,Adidas,NMD_R1,Casual,Women,US 7,Black,Primeknit,$130.00 ,36,$289.99,Florence
+786,Reebok,Zig Kinetica II,Running,Men,US 10,White,Mesh,$120.00 ,12,$269.99,Rome
+787,Converse,Jack Purcell,Casual,Women,US 8.5,Navy,Canvas,$75.00 ,3,$149.99,Bologna
+788,Puma,Calibrate Runner,Running,Men,US 9.5,Black,Mesh,$90.00 ,26,$139.99,Catania
+789,Vans,Sk8-Hi,Skate,Men,US 8.5,Black/White,Suede/Canvas,$70.00 ,85,$199.99,Bari
+790,New Balance,FuelCell Rebel v2,Running,Women,US 8.5,Black/Pink,Mesh,$130.00 ,81,$249.99,Genoa
+791,Asics,Gel-Quantum 90,Running,Men,US 11,Grey,Mesh,$80.00 ,49,$289.99,Palermo
+792,Fila,Mindblower,Fashion,Women,US 7,White,Synthetic,$75.00 ,91,$259.99,Genoa
+793,Skechers,GOwalk 5,Walking,Men,US 9,Black,Mesh,$65.00 ,93,$249.99,Catania
+794,Nike,Zoom Pegasus 38,Running,Women,US 8.5,Blue,Mesh,$120.00 ,69,$259.99,Genoa
+795,Adidas,Yeezy Boost 350 V2,Casual,Men,US 11,Cream White,Primeknit,$220.00 ,47,$259.99,Naples
+796,Reebok,Classic Nylon,Casual,Women,US 7.5,Pink,Nylon,$65.00 ,17,$269.99,Turin
+797,Converse,Chuck 70,Casual,Men,US 9,Red,Canvas,$85.00 ,85,$249.99,Turin
+798,Puma,Suede Classic,Fashion,Women,US 6,Black,Suede,$65.00 ,62,$159.99,Bari
+799,Vans,Era,Skate,Men,US 8,Grey,Canvas,$50.00 ,91,$219.99,Turin
+800,New Balance,Fresh Foam Beacon v3,Running,Women,US 9,Grey,Mesh,$120.00 ,76,$289.99,Bari
+801,Asics,Gel-Kayano 27,Running,Men,US 10,Black,Mesh,$160.00 ,81,$199.99,Naples
+802,Fila,Disruptor III,Fashion,Women,US 8.5,White,Synthetic,$75.00 ,5,$239.99,Bologna
+803,Skechers,Max Cushioning,Running,Men,US 9.5,Blue,Mesh,$90.00 ,87,$269.99,Naples
+804,Nike,Air Max 90,Casual,Women,US 7.5,Green,Leather,$120.00 ,76,$129.99,Rome
+805,Nike,Air Max 97,Running,Men,US 11,Silver,Synthetic/Leather,$170.00 ,71,$219.99,Palermo
+806,Adidas,Superstar,Casual,Women,US 8.5,White/Black,Leather,$80.00 ,60,$139.99,Florence
+807,Reebok,Zig Kinetica II,Running,Men,US 9,Grey,Mesh,$120.00 ,24,$259.99,Genoa
+808,Converse,Chuck 70,Casual,Men,US 12,Beige,Canvas,$85.00 ,17,$239.99,Turin
+809,Puma,Calibrate Runner,Running,Women,US 7.5,Black/White,Mesh,$90.00 ,29,$149.99,Catania
+810,Vans,Sk8-Hi,Skate,Men,US 9,Black/White,Suede/Canvas,$70.00 ,37,$139.99,Rome
+811,New Balance,574,Casual,Women,US 7.5,Grey,Suede,$80.00 ,31,$139.99,Bari
+812,Asics,Gel-Kayano 27,Running,Men,US 12,Black,Mesh,$160.00 ,49,$219.99,Rome
+813,Fila,Mindblower,Fashion,Women,US 9.5,Grey/Pink,Synthetic,$75.00 ,4,$119.99,Naples
+814,Skechers,Summits - New World,Walking,Men,US 10,Black,Mesh,$59.00 ,7,$109.99,Florence
+815,Nike,Air Force 1,Casual,Women,US 8,White,Leather,$90.00 ,85,$199.99,Naples
+816,Adidas,Adizero Adios 5,Running,Men,US 10.5,Blue,Mesh,$140.00 ,32,$189.99,Naples
+817,Reebok,Nano 9,Training,Women,US 7,Black/White,Synthetic,$130.00 ,52,$189.99,Milan
+818,Converse,Jack Purcell,Casual,Men,US 8.5,Navy,Canvas,$65.00 ,66,$289.99,Florence
+819,Puma,Clyde All-Pro,Basketball,Women,US 7.5,White,Leather,$130.00 ,58,$169.99,Bologna
+820,Vans,Slip-On,Casual,Men,US 10,Black/White,Canvas,$50.00 ,84,$99.99,Bari
+821,New Balance,FuelCell Propel V3,Running,Women,US 8.5,Pink/White,Mesh,$100.00 ,59,$119.99,Genoa
+822,Asics,Gel-Quantum 180,Running,Men,US 11.5,Black,Mesh,$120.00 ,1,$209.99,Palermo
+823,Fila,Ray Tracer Evo,Fashion,Women,US 8,White,Synthetic,$65.00 ,3,$289.99,Florence
+824,Skechers,GOrun Razor Excess,Running,Men,US 9,Black/Yellow,Mesh,$125.00 ,31,$249.99,Palermo
+825,Nike,Zoom Pegasus 38,Running,Women,US 7.5,Pink,Mesh,$120.00 ,44,$169.99,Genoa
+826,Nike,Blazer Mid '77,Casual,Men,US 10,White/Black,Leather,$100.00 ,9,$239.99,Florence
+827,Adidas,NMD_R1,Running,Women,US 7.5,Grey/Pink,Primeknit,$140.00 ,100,$189.99,Catania
+828,Reebok,Nano 9,Crossfit,Men,US 11.5,Black,Mesh,$130.00 ,1,$229.99,Milan
+829,Converse,Jack Purcell,Casual,Women,US 8.5,White,Canvas,$65.00 ,62,$99.99,Bari
+830,Puma,Calibrate Runner,Running,Men,US 9.5,Black/Yellow,Mesh,$120.00 ,68,$219.99,Bologna
+831,Vans,SK8-Hi,Skate,Men,US 9,Black/White,Suede/Canvas,$65.00 ,89,$129.99,Florence
+832,New Balance,327,Casual,Women,US 7.5,Purple,Suede/Leather,$100.00 ,33,$189.99,Palermo
+833,Asics,Gel-Cumulus 23,Running,Men,US 10,Blue/Black,Mesh,$120.00 ,20,$249.99,Milan
+834,Fila,F-13,Casual,Women,US 9,White,Leather,$80.00 ,86,$179.99,Catania
+835,Skechers,Go Walk 6,Walking,Men,US 10.5,Black/Grey,Mesh,$60.00 ,60,$279.99,Turin
+836,Nike,Air Force 1,Casual,Women,US 8,White,Leather,$90.00 ,85,$189.99,Milan
+837,Adidas,Superstar,Casual,Men,US 10,Black/White,Leather,$85.00 ,48,$239.99,Bologna
+838,Reebok,Classic Nylon,Casual,Women,US 7,Pink,Nylon,$60.00 ,53,$159.99,Bari
+839,Converse,Chuck 70,Casual,Men,US 11,Grey,Canvas,$85.00 ,100,$109.99,Milan
+840,Puma,Clyde All-Pro,Basketball,Women,US 7.5,White,Leather,$130.00 ,17,$219.99,Bari
+841,Vans,Slip-On,Casual,Men,US 8.5,Black/White,Canvas,$50.00 ,42,$209.99,Palermo
+842,New Balance,574,Casual,Women,US 8.5,Navy,Suede/Leather,$80.00 ,86,$239.99,Bologna
+843,Asics,GT-2000 9,Running,Men,US 9.5,Black,Mesh,$120.00 ,38,$139.99,Naples
+844,Fila,Grant Hill 2,Basketball,Women,US 8,White/Navy,Leather,$95.00 ,15,$119.99,Milan
+845,Skechers,Elite Flex,Walking,Men,US 9.5,Grey,Knit,$70.00 ,45,$109.99,Turin
+846,Nike,Air Force 1,Casual,Men,US 9,White,Leather,$90.00 ,84,$159.99,Bari
+847,Adidas,NMD_R1,Lifestyle,Women,US 7,Grey,Primeknit,$140.00 ,15,$169.99,Bari
+848,Reebok,Nano X1,Training,Men,US 11.5,Black,Mesh,$130.00 ,5,$149.99,Milan
+849,Converse,Chuck 70,Casual,Women,US 8.5,Cream,Canvas,$85.00 ,77,$179.99,Milan
+850,Puma,Suede Classic,Casual,Men,US 10.5,Black/White,Suede,$65.00 ,78,$279.99,Rome
+851,Vans,Sk8-Hi,Skate,Men,US 8,Black/White,Canvas,$70.00 ,1,$139.99,Naples
+852,New Balance,327,Lifestyle,Women,US 8,White/Grey,Suede/Mesh,$90.00 ,46,$249.99,Genoa
+853,Asics,Gel-Quantum 90,Running,Men,US 10,Grey,Mesh,$80.00 ,64,$109.99,Turin
+854,Fila,Mindblower,Fashion,Women,US 7,Pink,Leather/Synthetic,$75.00 ,99,$199.99,Florence
+855,Skechers,Max Cushioning,Walking,Men,US 9.5,Black,Mesh,$80.00 ,13,$139.99,Bari
+856,Nike,React Infinity Run Flyknit 2,Running,Women,US 6.5,Pink,Flyknit,$160.00 ,75,$189.99,Bari
+857,Adidas,Ultraboost DNA,Running,Men,US 9.5,White,Primeknit,$180.00 ,19,$249.99,Rome
+858,Reebok,Zig Kinetica II,Running,Women,US 8,Blue,Mesh,$120.00 ,25,$299.99,Milan
+859,Converse,Jack Purcell,Casual,Men,US 9,White,Canvas,$65.00 ,76,$189.99,Turin
+860,Puma,Calibrate Runner,Running,Women,US 7,Grey,Mesh,$90.00 ,75,$289.99,Naples
+861,Vans,Era,Skate,Men,US 10,Black,Canvas,$50.00 ,42,$109.99,Rome
+862,New Balance,Fresh Foam Hierro v6,Trail Running,Men,US 11.5,Green,Synthetic/Mesh,$135.00 ,32,$259.99,Naples
+863,Asics,Gel-Kayano 27,Running,Women,US 8.5,Blue,Mesh,$160.00 ,4,$259.99,Catania
+864,Fila,Ray Tracer Evo,Fashion,Men,US 11,Black/White,Synthetic,$75.00 ,64,$239.99,Rome
+865,Skechers,Go Run Mojo,Running,Women,US 7.5,Black,Mesh,$60.00 ,53,$299.99,Palermo
+866,Nike,Air Force 1,Casual,Men,US 11,White,Leather,$90.00 ,4,$169.99,Florence
+867,Adidas,NMD_R1,Running,Women,US 7,Pink,Primeknit,$130.00 ,80,$289.99,Palermo
+868,Reebok,Nano 9,Training,Men,US 10.5,Black,Mesh,$130.00 ,13,$229.99,Rome
+869,Converse,Jack Purcell,Casual,Women,US 8.5,White,Canvas,$65.00 ,58,$189.99,Naples
+870,Puma,Clyde All-Pro,Basketball,Men,US 9,Black,Leather,$130.00 ,93,$209.99,Turin
+871,Vans,Sk8-Hi,Skate,Women,US 7.5,Black/White,Suede/Canvas,$70.00 ,87,$149.99,Genoa
+872,New Balance,327,Casual,Men,US 9,Navy,Suede/Mesh,$100.00 ,17,$139.99,Bari
+873,Asics,Gel-Kinsei OG,Running,Women,US 7,White,Mesh,$180.00 ,2,$259.99,Florence
+874,Fila,Venom,Fashion,Men,US 11,Grey,Synthetic,$75.00 ,82,$119.99,Bologna
+875,Skechers,GOrun 7+,Running,Women,US 8,Black/Pink,Mesh,$95.00 ,24,$149.99,Palermo
+876,Nike,Blazer Mid '77,Casual,Men,US 12,White,Leather,$100.00 ,29,$249.99,Genoa
+877,Adidas,Ultraboost DNA,Running,Women,US 6,Blue,Primeknit,$180.00 ,90,$289.99,Bologna
+878,Reebok,Classic Nylon,Casual,Men,US 9.5,Black,Nylon,$65.00 ,33,$179.99,Bari
+879,Converse,Chuck 70,Casual,Women,US 9,Cream,Canvas,$85.00 ,45,$219.99,Rome
+880,Puma,Calibrate Runner,Running,Men,US 10,Black/Yellow,Mesh,$120.00 ,54,$229.99,Rome
+881,Vans,Era,Skate,Women,US 6.5,Red,Canvas,$50.00 ,1,$289.99,Milan
+882,New Balance,FuelCell Rebel V2,Running,Men,US 11,Black/Yellow,Mesh,$110.00 ,98,$279.99,Turin
+883,Asics,Gel-Venture 8,Trail Running,Women,US 8,Grey,Mesh,$70.00 ,82,$269.99,Florence
+884,Fila,Original Fitness,Casual,Men,US 10,White,Leather,$70.00 ,64,$279.99,Genoa
+885,Skechers,Max Cushioning Premier,Walking,Women,US 7,Grey,Mesh,$80.00 ,25,$219.99,Naples
+886,Nike,React Infinity Run Flyknit,Running,Men,US 10.5,Blue,Flyknit,$160.00 ,42,$199.99,Bologna
+887,Nike,React Infinity Run Flyknit,Running,Women,US 7,Black,Flyknit,$160.00 ,38,$239.99,Bari
+888,Adidas,Superstar,Casual,Men,US 10.5,White/Gold,Leather/Synthetic,$85.00 ,86,$159.99,Naples
+889,Reebok,Nano X1,Training,Women,US 8.5,Pink,Flexweave/Synthetic,$130.00 ,1,$169.99,Milan
+890,Converse,Chuck 70,Casual,Men,US 11.5,Yellow,Canvas,$85.00 ,70,$119.99,Bologna
+891,Puma,Calibrate Runner,Running,Women,US 9,Grey,Mesh,$80.00 ,14,$189.99,Bologna
+892,Vans,Sk8-Hi,Skate,Men,US 9,Black/White,Canvas/Suede,$65.00 ,72,$139.99,Naples
+893,New Balance,327,Lifestyle,Women,US 7,Blue,Suede/Mesh,$90.00 ,50,$279.99,Catania
+894,Asics,Gel-Quantum 90,Running,Men,US 9,Black/White,Mesh/Synthetic,$80.00 ,76,$249.99,Rome
+895,Fila,Mindblower,Fashion,Women,US 8,Pink,Leather/Synthetic,$70.00 ,69,$289.99,Bari
+896,Skechers,Go Run Mojo,Running,Men,US 8,Black,Mesh,$60.00 ,71,$169.99,Turin
+897,Nike,Air Force 1,Casual,Women,US 8.5,White,Leather,$90.00 ,86,$139.99,Turin
+898,Adidas,NMD_R1,Casual,Men,US 9.5,Black/White,Mesh,$130.00 ,83,$179.99,Naples
+899,Reebok,Floatride Energy 3,Running,Women,US 6.5,Black,Mesh,$100.00 ,89,$229.99,Catania
+900,Converse,All Star Pro BB,Basketball,Men,US 12,Red,Leather/Synthetic,$120.00 ,74,$249.99,Naples
+901,Puma,RS-2K,Lifestyle,Women,US 7.5,White,Leather/Synthetic,$110.00 ,6,$139.99,Naples
+902,Vans,Era,Skate,Men,US 8,Navy,Canvas,$50.00 ,63,$179.99,Bologna
+903,New Balance,FuelCell Rebel v2,Running,Women,US 8.5,Pink,Mesh/Synthetic,$130.00 ,38,$169.99,Naples
+904,Asics,Gel-Kayano 27,Running,Men,US 10,Black,Mesh/Synthetic,$160.00 ,59,$249.99,Turin
+905,Fila,Trigate,Fashion,Women,US 9,Black,Leather/Synthetic,$65.00 ,99,$199.99,Milan
+906,Skechers,Go Walk 6,Walking,Men,US 9.5,Black,Mesh,$60.00 ,75,$169.99,Florence
+907,Nike,Air Force 1 '07,Casual,Men,US 11,White,Leather,$90.00 ,58,$259.99,Turin
+908,Adidas,NMD_R1,Lifestyle,Women,US 8,Pink/White,Primeknit,$130.00 ,29,$289.99,Bari
+909,Reebok,Nano X,Crossfit,Men,US 10.5,Black,Synthetic,$130.00 ,29,$169.99,Catania
+910,Converse,Chuck 70 High Top,Casual,Men,US 9.5,Black/White,Canvas,$85.00 ,82,$99.99,Rome
+911,Puma,Calibrate Runner,Running,Women,US 9,Blue/White,Mesh,$90.00 ,58,$189.99,Rome
+912,Vans,Sk8-Hi,Skate,Men,US 10,Black/White,Suede/Canvas,$70.00 ,43,$199.99,Florence
+913,New Balance,327,Lifestyle,Women,US 7.5,Green,Suede/Nylon,$90.00 ,56,$109.99,Palermo
+914,Asics,Gel-Kayano 27,Running,Men,US 9.5,Grey,Mesh,$160.00 ,18,$179.99,Milan
+915,Fila,Mindblower,Fashion,Women,US 7.5,White/Blue,Leather/Synthetic,$75.00 ,40,$289.99,Milan
+916,Skechers,Elite Flex Wasick,Training,Men,US 8,Navy,Mesh,$65.00 ,52,$149.99,Milan
+917,Nike,Air Zoom Pegasus 38,Running,Women,US 6.5,Grey/Pink,Mesh,$120.00 ,13,$269.99,Catania
+918,Adidas,Ultraboost DNA,Running,Men,US 11.5,Black/White,Primeknit,$180.00 ,93,$199.99,Bologna
+919,Reebok,Club C Revenge,Casual,Women,US 8.5,Pink/White,Leather,$80.00 ,81,$129.99,Genoa
+920,Converse,Jack Purcell,Casual,Men,US 9,Navy,Canvas,$65.00 ,87,$199.99,Palermo
+921,Puma,Clyde All-Pro,Basketball,Women,US 7,Black/White,Leather,$130.00 ,17,$299.99,Palermo
+922,Vans,Era,Skate,Men,US 9.5,Red,Canvas,$50.00 ,93,$239.99,Genoa
+923,New Balance,FuelCell Propel V3,Running,Women,US 8.5,Black,Mesh,$90.00 ,29,$289.99,Milan
+924,Asics,Gel-Nimbus Lite 2,Running,Men,US 10,Black,Mesh,$150.00 ,45,$259.99,Naples
+925,Fila,V94M,Fashion,Women,US 8.5,White/Blue,Leather/Synthetic,$75.00 ,97,$159.99,Milan
+926,Nike,Air Force 1 '07,Casual,Men,US 11,White,Leather,$90.00 ,100,$159.99,Florence
+927,Adidas,NMD_R1,Lifestyle,Women,US 8,Pink/White,Primeknit,$130.00 ,4,$199.99,Turin
+928,Reebok,Nano X,Crossfit,Men,US 10.5,Black,Synthetic,$130.00 ,63,$239.99,Bologna
+929,Converse,Chuck 70 High Top,Casual,Men,US 9.5,Black/White,Canvas,$85.00 ,19,$279.99,Palermo
+930,Puma,Calibrate Runner,Running,Women,US 9,Blue/White,Mesh,$90.00 ,97,$229.99,Palermo
+931,Vans,Sk8-Hi,Skate,Men,US 10,Black/White,Suede/Canvas,$70.00 ,65,$89.99,Bari
+932,New Balance,327,Lifestyle,Women,US 7.5,Green,Suede/Nylon,$90.00 ,100,$299.99,Rome
+933,Asics,Gel-Kayano 27,Running,Men,US 9.5,Grey,Mesh,$160.00 ,85,$179.99,Palermo
+934,Fila,Mindblower,Fashion,Women,US 7.5,White/Blue,Leather/Synthetic,$75.00 ,38,$289.99,Rome
+935,Skechers,Elite Flex Wasick,Training,Men,US 8,Navy,Mesh,$65.00 ,60,$189.99,Bari
+936,Nike,Air Zoom Pegasus 38,Running,Women,US 6.5,Grey/Pink,Mesh,$120.00 ,54,$199.99,Florence
+937,Adidas,Ultraboost DNA,Running,Men,US 11.5,Black/White,Primeknit,$180.00 ,61,$199.99,Turin
+938,Reebok,Club C Revenge,Casual,Women,US 8.5,Pink/White,Leather,$80.00 ,28,$259.99,Turin
+939,Converse,Jack Purcell,Casual,Men,US 9,Navy,Canvas,$65.00 ,94,$259.99,Milan
+940,Puma,Clyde All-Pro,Basketball,Women,US 7,Black/White,Leather,$130.00 ,44,$259.99,Catania
+941,Vans,Era,Skate,Men,US 9.5,Red,Canvas,$50.00 ,8,$69.99,Bologna
+942,New Balance,FuelCell Propel V3,Running,Women,US 8.5,Black,Mesh,$90.00 ,27,$149.99,Palermo
+943,Asics,Gel-Nimbus Lite 2,Running,Men,US 10,Black,Mesh,$150.00 ,28,$199.99,Naples
+944,Fila,V94M,Fashion,Women,US 8.5,White/Blue,Leather/Synthetic,$75.00 ,54,$239.99,Bari
+945,Nike,Air Force 1,Casual,Men,US 11,White,Leather,$90.00 ,61,$109.99,Bari
+946,Adidas,NMD_R1,Lifestyle,Women,US 7.5,Pink,Primeknit,$130.00 ,49,$209.99,Naples
+947,Reebok,Nano X1,Crossfit,Men,US 9.5,Grey,Knit,$130.00 ,96,$159.99,Catania
+948,Converse,Chuck 70,Casual,Women,US 9.5,Black,Canvas,$85.00 ,50,$289.99,Milan
+949,Puma,Calibrate,Running,Men,US 10,Grey,Mesh,$120.00 ,85,$199.99,Palermo
+950,Vans,SK8-Hi,Skate,Men,US 8,Red/White,Suede/Canvas,$70.00 ,70,$149.99,Catania
+951,New Balance,327,Lifestyle,Women,US 6.5,Purple,Suede/Mesh,$100.00 ,71,$109.99,Rome
+952,Asics,Gel-Quantum 180,Running,Men,US 11.5,Black,Mesh,$120.00 ,54,$209.99,Genoa
+953,Fila,Trailblazer,Fashion,Women,US 8,Brown,Leather,$75.00 ,89,$239.99,Palermo
+954,Skechers,Max Cushioning,Running,Women,US 7.5,Navy,Mesh,$90.00 ,62,$219.99,Rome
+955,Nike,Air Zoom Pegasus 38,Running,Men,US 9.5,Blue,Mesh,$120.00 ,15,$199.99,Turin
+956,Adidas,Superstar,Casual,Women,US 8.5,White/Black,Leather,$85.00 ,83,$109.99,Catania
+957,Reebok,Classic Nylon,Casual,Men,US 10,Grey,Nylon,$65.00 ,70,$159.99,Naples
+958,Converse,Jack Purcell,Casual,Men,US 9.5,White,Canvas,$65.00 ,46,$169.99,Palermo
+959,Puma,RS-2K,Lifestyle,Women,US 7.5,Black,Mesh/Suede,$110.00 ,88,$129.99,Bari
+960,Vans,Slip-On,Skate,Men,US 9,Black/White,Canvas,$50.00 ,14,$179.99,Rome
+961,New Balance,FuelCell Rebel v2,Running,Women,US 9,Green/Black,Mesh,$130.00 ,20,$249.99,Palermo
+962,Asics,Gel-Kayano Lite,Running,Men,US 9,Grey,Mesh,$160.00 ,77,$199.99,Naples
+963,Fila,Mindblower,Fashion,Women,US 7.5,White,Leather,$75.00 ,20,$109.99,Catania
+964,Skechers,D'Lites,Walking,Men,US 11,White,Leather,$65.00 ,98,$259.99,Genoa
+965,Nike,Air Max 97,Running,Women,US 8,Silver,Leather/Synthetic,$170.00 ,19,$239.99,Palermo
+966,Nike,Air Force 1,Lifestyle,Men,US 11,White,Leather,$90.00 ,67,$209.99,Milan
+967,Adidas,Yeezy Boost 350,Lifestyle,Women,US 8.5,Clay Brown,Primeknit,$220.00 ,69,$279.99,Rome
+968,Reebok,Nano X,Training,Men,US 9.5,Black/Red,Synthetic/Mesh,$130.00 ,4,$159.99,Milan
+969,Converse,Chuck 70,Casual,Women,US 7,Natural Ivory,Canvas,$85.00 ,87,$209.99,Bologna
+970,Puma,Cali Sport,Lifestyle,Men,US 10,Black/White,Leather/Synthetic,$80.00 ,61,$229.99,Genoa
+971,Vans,Sk8-Hi,Skate,Women,US 9,Red/White,Suede/Canvas,$70.00 ,87,$219.99,Florence
+972,New Balance,FuelCell Rebel v2,Running,Men,US 8.5,Blue/Orange,Mesh,$130.00 ,55,$289.99,Turin
+973,Asics,Gel-Cumulus 23,Running,Women,US 7.5,White/Black,Mesh,$120.00 ,32,$259.99,Florence
+974,Fila,D-Formation,Fashion,Men,US 11,White/Navy,Leather/Synthetic,$65.00 ,59,$199.99,Naples
+975,Skechers,Max Cushioning Premier,Running,Women,US 6.5,Black/White,Mesh,$90.00 ,9,$189.99,Rome
+976,Nike,Air Zoom Pegasus 38,Running,Men,US 12,Black,Mesh,$120.00 ,24,$269.99,Milan
+977,Adidas,Superstar,Casual,Women,US 7.5,Cloud White,Leather,$80.00 ,79,$209.99,Catania
+978,Reebok,Classic Nylon,Casual,Men,US 10.5,Collegiate Navy,Nylon/Suede,$65.00 ,45,$119.99,Bologna
+979,Converse,Jack Purcell,Casual,Women,US 8,Black/White,Canvas,$65.00 ,51,$199.99,Rome
+980,Puma,Suede Classic,Lifestyle,Men,US 8.5,Black/White,Suede,$65.00 ,30,$89.99,Naples
+981,Vans,Era,Skate,Women,US 6,Black/White,Canvas,$50.00 ,56,$179.99,Milan
+982,New Balance,Fresh Foam Hierro v6,Trail,Men,US 10,Black/Red,Mesh/Synthetic,$135.00 ,47,$159.99,Palermo
+983,Asics,Gel-Excite 8,Running,Women,US 9,Black,Mesh,$75.00 ,7,$249.99,Catania
+984,Fila,Mindblower,Fashion,Men,US 12,White/Navy/Red,Synthetic/Leather,$65.00 ,12,$119.99,Naples
+985,Nike,Air Force 1,Casual,Men,US 9,White,Leather,$90.00 ,31,$209.99,Rome
+986,Adidas,NMD_R1,Lifestyle,Women,US 8,Black,Primeknit,$140.00 ,13,$289.99,Milan
+987,Reebok,Nano X,Crossfit,Men,US 10.5,Black,Mesh,$130.00 ,92,$159.99,Milan
+988,Converse,Jack Purcell,Casual,Men,US 8.5,White,Canvas,$70.00 ,16,$239.99,Florence
+989,Puma,Calibrate Runner,Running,Women,US 7,Grey,Mesh,$80.00 ,45,$119.99,Naples
+990,Vans,Sk8-Hi,Skate,Men,US 10.5,Black/White,Canvas/Suede,$70.00 ,63,$179.99,Palermo
+991,New Balance,FuelCell Rebel v2,Running,Women,US 9,White/Green,Mesh,$130.00 ,34,$299.99,Florence
+992,Asics,Gel-Quantum 360 6,Running,Men,US 9.5,Blue,Mesh,$150.00 ,26,$279.99,Rome
+993,Fila,Mindblower,Fashion,Women,US 8.5,Pink,Leather,$80.00 ,55,$249.99,Bologna
+994,Skechers,Go Walk 5,Walking,Men,US 11,Black,Mesh,$65.00 ,53,$209.99,Bologna
+995,Nike,React Infinity Run Flyknit 2,Running,Women,US 8.5,Pink,Flyknit,$160.00 ,99,$219.99,Florence
+996,Adidas,Ultraboost DNA,Running,Men,US 8.5,White,Primeknit,$180.00 ,20,$269.99,Genoa
+997,Reebok,Aztrek 96,Casual,Women,US 7.5,Yellow,Leather/Synthetic,$90.00 ,17,$289.99,Bari
+998,Converse,Chuck 70,Casual,Men,US 7,Red,Canvas,$85.00 ,9,$99.99,Florence
+999,Puma,Mirage Sport,Lifestyle,Women,US 6,Pink,Leather,$90.00 ,68,$179.99,Genoa
+1000,Vans,Era,Skate,Men,US 9.5,Black/White,Canvas,$50.00 ,78,$199.99,Turin
+1001,New Balance,Fresh Foam 880v11,Running,Women,US 10,Grey,Mesh,$130.00 ,23,$269.99,Catania
+1002,Asics,Gel-Kayano Lite,Running,Men,US 9.5,Black,Mesh,$160.00 ,83,$179.99,Palermo
+1003,Fila,Venom 94,Fashion,Women,US 7.5,White,Leather,$70.00 ,4,$269.99,Bari
+1004,Skechers,Summits,Training,Men,US 8,Grey,Mesh,$55.00 ,1,$239.99,Palermo
+1005,Nike,Air Max 97,Running,Women,US 7.5,Silver,Leather,$170.00 ,12,$249.99,Rome
